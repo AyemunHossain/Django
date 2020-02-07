@@ -1,10 +1,13 @@
 from django.db import models
 
-# Create your models here. we added Tutorial model here 
-class Tutorial(models.Model):
-    tutorial_tittle = models.CharField(max_length=200)
-    tutorial_content = models.TextField()
-    tutorial_published = models.DateTimeField("Date published")
+# Create your models here.
+
+class News(models.Model):
+    news_title = models.CharField(max_length=200)
+    news_author = models.CharField(max_length=50)
+    news_content = models.TextField()
+    news_published = models.DateTimeField()
 
     def __str__(self):
-        return self.tutorial_tittle
+        return self.news_title
+

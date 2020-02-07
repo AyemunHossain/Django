@@ -1,9 +1,11 @@
 import os
 
+# Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'k31^&%3c9$2+d^_v0!dm9-epqd_!8tchqinm66ctf4br)yzpa+'
+SECRET_KEY = '#4nm3f2(wf&z7z%$f)1nfq^68mm5xbh)m1%49*)*j=r46f81p_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -20,7 +22,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'main.apps.MainConfig',         #We have added new apps : main here
+    'main.apps.MainConfig'     #We added this main apps here
 ]
 
 MIDDLEWARE = [
