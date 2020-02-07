@@ -18,16 +18,17 @@ Step 4 — Make Migrations...........
 	
 	.........2.We can exploring our model class and it's objects
 							.....1. python manage.py shell
-							.....2. from main.models import Tutorial
-							.....3.	see all objects of Tutorial class ..... Tutorial.objects.all()
+							.....2. from main.models import News
+							.....3.	see all objects of Tutorial class ..... News.objects.all()
 							.....4.  creating new objects:
 
 								 from django.utils import timezone 
-								 new_obj1 = Tutorial(tutorial_tittle="To do",tutorial_content="Bla bla bla",tutorial_published=timezone.now())
-								 new_obj1.save()
+								 news1 = News(news_title="Bangladesh Won by 3 Wickets",news_author="Ashik",news_published=timezone.now(),
+											news_content="So this is a news for today that Bangaldesh is won by 3 wickets and Shakib All Hassan Got 5 wickets and 48 runs in 34 balls")
+								 news1 .save()
 								 
 	.........3. We can iterate over that new_obj1 object
-							.....1. for obj in Tutorial.objects.all():
-   								print( obj.tutorial_content )
+							.....1. for obj in News.objects.all():
+   								print( obj.news_title )
 								
 									
