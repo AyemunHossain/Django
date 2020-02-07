@@ -1,4 +1,4 @@
-...................................Please seach google to know what django model is ....................................then come back
+...................................Please seach google to know what django model is >>
 
 Step 1 — Create Django Application
 
@@ -9,7 +9,7 @@ Step 3 — Add the main apps to settings.py > INSTALLED_APPS list
 Step 4 — Make Migrations...........
 				...1.python manage.py makemigrateions
 				...2.python migrate
-............................................................................Thats enough for if you just wanto add model 
+............................................................................Thats enough for if you just want too add model 
 
 
 ---Exploring more 
