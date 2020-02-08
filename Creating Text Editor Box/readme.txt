@@ -1,5 +1,9 @@
 .............Before this you need to create a project and add models and create superuser account and must need to ok everythings ...if yes then step forward with me
 
+There's a library available for creating awsome textbox and manyothers called : tinymce
+So i am gonna use that for creating textbox purpose.
+
+
 
 1.....To install--- pip install django-tinymce4-lite
 

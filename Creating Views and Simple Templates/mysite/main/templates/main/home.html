@@ -1,0 +1,16 @@
+<head>
+    {% load static %}
+    <link href="{% static 'tinymce/css/prism.css' %}" rel = "stylesheet">
+
+</head>
+
+<body>
+    {% for n in news %}
+        <h1>{{ n.news_title }} </h1>
+        <h4>{{ n.news_author }} </h4>
+        <p>{{ n.news_published }} </p>
+        <p>{{ n.news_content | safe}} </p>
+    {% endfor %}
+</body>
+
+<script src="{% static 'tinymce/css/prism.js'%}"> </script>
