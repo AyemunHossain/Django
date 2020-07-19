@@ -1,0 +1,43 @@
+{% if page_obj.has_other_pages %}
+        
+ <nav class="d-flex justify-content-center wow fadeIn">
+  <ul class="pagination pg-blue">
+
+  {% if page_obj.has_previous %}
+  <li class="page-item">
+      <a class="page-link" href="?page=1">First</a>
+  </li>   
+  
+  <li class="page-item">
+    <a class="page-link" href="?page={{ page_obj.previous_page_numbers }}">Previous </a>
+  </li> 
+    
+  {% endif %}
+
+  {% for num in page_obj.paginator.page_range %}
+
+    {% if num == page_obj.number %}
+    <li class="page-item">
+      <a class="page-link" href="?page={{ num }}">{{ num }}</a>
+    </li> 
+      
+      {% elif num > page_obj.number|add:'-3' and num < page_obj.number|add:'3' %}
+      <li class="page-item">
+        <a class="page-link" href="?page={{ num }}">{{ num }}</a>
+      </li> 
+      
+    {% endif %}
+    
+  {% endfor %} 
+
+ {% if page_obj.has_next %}
+ <li class="page-item">
+    <a class="page-link" href="?page={{ page_obj.next_page_number }}">Next</a>
+  </li>   
+  <li class="page-item">
+    <a class="page-link" href="?page={{ page_obj.paginator.num_pages }}">Last </a>
+  </li>
+   
+ {% endif %}
+
+{% endif %}
