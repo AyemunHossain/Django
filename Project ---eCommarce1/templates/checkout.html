@@ -1,0 +1,182 @@
+
+{% extends 'base.html' %}
+{% block content %}
+
+ <!--Main layout-->
+ <main class="mt-5 pt-4">
+  <div class="container wow fadeIn">
+
+    <!-- Heading -->
+    <h2 class="my-5 h2 text-center">Checkout form</h2>
+
+    <!--Grid row-->
+    <div class="row">
+
+      <!--Grid column-->
+      <div class="col-md-8 mb-4">
+
+        <!--Card-->
+        <div class="card">
+
+          <!--Card content-->
+          <form method="POST" class="card-body">
+              {% csrf_token %}
+            <!--address-->
+            <div class="md-form mb-5">
+            
+               {{ form.address}}
+              <label for="address" class="">Address</label>
+            </div>
+
+            <!--address-2-->
+            <div class="md-form mb-5">
+              
+              {{ form.apartment_address }}
+              <label for="address-2" class="">Address 2 (optional)</label>
+            </div>
+
+            <!--Grid row-->
+            <div class="row">
+
+              <!--Grid column-->
+              <div class="col-lg-4 col-md-12 mb-4">
+
+                <label for="country">Country</label>
+              
+                {{ form.country }}
+                
+                <div class="invalid-feedback">
+                  Please select a valid country.
+                </div>
+
+              </div>
+              <!--Grid column-->
+
+              <!--Grid column-->
+              <div class="col-lg-4 col-md-6 mb-4">
+
+                <label for="zip">Zip</label>
+                {{ form.zipcode }}
+              </div>
+              <!--Grid column-->
+
+            </div>
+            <!--Grid row-->
+
+            <hr>
+
+            <div class="custom-control custom-checkbox">
+              {{ form.same_billing_address }}
+              <label> Shipping address is the same as my billing address</label>
+            </div>
+            <div class="custom-control custom-checkbox">
+              {{ form.save_info }}
+              <label> Save this information for next time</label>
+            </div>
+
+            <hr>
+
+            <h3>Payment Method</h3>
+     
+            <div class="custom-control custom-radio">
+              {{ form.payment_method }}
+            </div>
+
+            <hr class="mb-4">
+            <button class="btn btn-primary btn-lg btn-block" type="submit">Continue to checkout</button>
+
+          </form>
+
+        </div>
+        <!--/.Card-->
+
+      </div>
+      <!--Grid column-->
+
+      <!--Grid column-->
+      <div class="col-md-4 mb-4">
+
+        <!-- Heading -->
+        <h4 class="d-flex justify-content-between align-items-center mb-3">
+          <span class="text-muted">Your Billing</span>
+          <a class="badge badge-danger badge-pill" href="{% url 'core:cart_summary' %}">See Details Cart</a>
+        </h4>
+
+        <!-- Cart -->
+        <ul class="list-group mb-3 z-depth-1">
+          {% if object != None %}
+
+          {% for order_item in object.items.all %}
+          <li class="list-group-item d-flex justify-content-between lh-condensed">
+            <div>
+              <h6 class="my-0">
+                <a href="{{ order_item.item.get_absolute_url}}">{{ order_item.item.title }}</a>
+                <em>
+                  x{{order_item.quantity}}
+                </em>
+              </h6>
+              <small class="text-muted">
+                {{ order_item.item.get_category_display }}
+              </small>
+            </div>
+            <span class="text-muted">
+              {{order_item.get_total_item_price}}
+            </span>
+          </li>
+        
+          {% endfor %}
+
+          <!-- coupon section  -->
+          {% if object.coupon %}
+          <li class="list-group-item d-flex justify-content-between bg-light">
+              <div class="text-success">
+              <h6 class="my-0">Promo code</h6>
+              <small>{{ object.coupon.code }}</small>
+              </div>
+              <span class="text-success">-${{ object.coupon.amount }}</span>
+          </li>
+          {% endif %}
+          <!-- end coupon section  -->
+
+          <li class="list-group-item d-flex justify-content-between">
+            <span>Total (USD)</span>
+            <strong>${{object.get_total_bill}}</strong>
+          </li>
+          {% else %}
+          <li class="list-group-item d-flex justify-content-between">
+            <h6 class="mr-5 ml-2 mt-2">You Don't Have Anything in cart </h6>
+          </li>
+
+          <a class="list-group-item flex-column flex-center justify-content-between" style="background-color: yellow;" href="/">Continue Shopping</a>
+
+         
+          {% endif %}
+        </ul>
+        <!-- Cart -->
+
+        <!-- Promo code -->
+        <h4> Add Promo Code</h4>
+        {% if couponform %}
+        <form class="card p-2" method="POST" action="{% url 'core:coupon'%}">
+            {% csrf_token %}
+            <div class="input-group">
+                {{ couponform.code }}
+                <div class="input-group-append">
+                <button class="btn btn-secondary btn-md waves-effect m-0" type="submit">Redeem</button>
+                </div>
+            </div>
+        </form>
+      {% endif %}
+        <!-- Promo code -->
+
+      </div>
+      <!--Grid column-->
+
+    </div>
+    <!--Grid row-->
+
+  </div>
+</main>
+<!--Main layout-->
+
+{% endblock content %} 

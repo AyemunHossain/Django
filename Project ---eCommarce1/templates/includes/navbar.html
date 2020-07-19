@@ -1,0 +1,87 @@
+{% load cart_template_tags %}
+<!-- Navbar -->
+<nav class="navbar fixed-top navbar-expand-lg navbar-light white scrolling-navbar">
+  <div class="container">
+
+    <!-- Brand -->
+    <a class="navbar-brand waves-effect" href="/" >
+      <strong class="blue-text">Agami Sell</strong>
+    </a>
+
+    <!-- Collapse -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Links -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+      <!-- Left -->
+      <ul class="navbar-nav mr-auto">
+        {% if user.is_authenticated %}
+          <li class="nav-item">
+            <a class="nav-link waves-effect" href="{% url 'core:checkout' %}" target="_blank">Checkout</a>
+          </li>
+        {% endif %}
+        <li class="nav-item">
+          <a class="nav-link waves-effect" href="/" target="_blank">
+            Customer Discussion</a>
+        </li>
+      </ul>
+
+      <!-- Right -->
+      <ul class="navbar-nav nav-flex-icons">
+
+        <li class="nav-item">
+          <a href="https://www.facebook.com/ahashik.official" class="nav-link waves-effect" target="_blank">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="https://www.instagram.com/ahashik.me/" class="nav-link waves-effect" target="_blank">
+            <i class="fab fa-instagram"></i>
+          </a>
+        </li>
+        
+        {% if user.is_authenticated %}
+        <li class="nav-item">
+          <a class="nav-link waves-effect" href="{% url 'core:cart_summary' %}">
+            <span class="badge red z-depth-1 mr-1"> {{ request.user | cart_item_count }} </span>
+            <i class="fas fa-shopping-cart"></i>
+            <span class="clearfix d-none d-sm-inline-block"> Cart </span>
+          </a>
+        </li>
+        {% endif %}
+
+        <li>
+          <form class="form-inline" method="GET" action="{% url 'core:search' %}">
+            <input class="form-control mr-sm-2" name="q" placeholder="Search" value="{{query_str}}">
+          </form>
+        </li>
+          
+        {% if user.is_authenticated %}
+        <li class="nav-item pl-2 mb-2 mb-md-0">
+
+        <a class="nav-item nav-link btn-outline-lime" href="{% url 'account_logout' %}">Sign Out</a>
+        {% else %}
+        
+        
+        <a class="nav-item nav-link" href="{% url 'account_signup' %}">Sign Up</a>
+        <a class="nav-item nav-link" href="{% url 'account_login' %}">Login</a>
+
+      {% endif %}
+
+      
+        
+        
+
+          
+
+      </ul>
+
+    </div>
+
+  </div>
+</nav>
+<!-- Navbar -->
