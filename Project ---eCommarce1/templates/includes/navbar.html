@@ -23,11 +23,15 @@
           <li class="nav-item">
             <a class="nav-link waves-effect" href="{% url 'core:checkout' %}" target="_blank">Checkout</a>
           </li>
+
+          <li class="nav-item">
+            <a class="nav-link waves-effect" href="{% url 'core:orders' %}" target="_blank">
+              Your Previous Order</a>
+          </li>
+        </ul>
+
         {% endif %}
-        <li class="nav-item">
-          <a class="nav-link waves-effect" href="/" target="_blank">
-            Customer Discussion</a>
-        </li>
+        
       </ul>
 
       <!-- Right -->

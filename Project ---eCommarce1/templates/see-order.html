@@ -1,0 +1,67 @@
+{% extends 'base.html' %}
+
+{% load product_cart_template_tags %}
+
+{% block content %}
+
+<div class="container mt-5 pt-5">
+    <div class="table-responsive text-nowrap">
+        {% if object %}
+        <h2> <b> Your order {{object.refrence_code}} </b></h2>
+        <table class="table">
+          <thead>
+            <tr>
+              
+                <th scope="col">#</th>
+                <th scope="col">Title</th>
+                <th scope="col">Category</th>
+                <th scope="col">Price</th>
+                <th scope="col">Discount Price</th>
+                <th scope="col">Quantity</th>
+                <th scope="col">Ordered Date</th>
+                <th scope="col">Total Item Price</th>
+
+            </tr>
+          </thead>
+          <tbody>
+
+                {% for order_item in object.items.all %}
+                <tr>
+                    <th scope="row">{{ forloop.counter }}</th>
+                    <td><a href="{{ order_item.item.get_absolute_url}}"></a><b> {{ order_item.item.title |slice:":35"}}...</b></a></td>
+                    <td>{{ order_item.item.get_category_display }}</td>
+                    <td>{{ order_item.item.price }}</td>
+                    <td>{{ order_item.item.discount_price }}</td>
+                    <td>{{order_item.quantity}}</td>
+                    <td>{{ object.ordered_date }}</td>
+                    <td>{{ order_item.get_total_item_price }}  
+                        {% if order_item.get_saved_amount != None %}
+                            <span class="badge badge-primary">(Saving: ${{ order_item.get_saved_amount }})</span>
+                        {% endif %}
+                      </td>
+                  </tr>
+                {% endfor %}
+                <tr>
+                    <td ><b>Order Total</b></td>
+                    <td colspan="8">
+                      
+                      <b style="margin-left: 50rem;">${{object.get_total_bill}} </b>
+                      
+                      {% if object.get_total_saving != None %}
+                      
+                      <span class="badge badge-primary">
+                        (Total Saving: ${{object.get_total_saving}} )
+                      </span>
+                        
+                      {% endif %}
+                      
+                  </tr>
+          </tbody>
+        </table>
+        {% endif %}
+    </div>
+    
+</div>
+    
+ 
+{% endblock content%}

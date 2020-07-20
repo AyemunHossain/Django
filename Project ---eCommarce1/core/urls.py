@@ -14,6 +14,8 @@ urlpatterns = [
     path('payment/<str:method>/',views.PaymentView.as_view(), name='payment'),
     path('coupon/',views.CouponView.as_view(), name='coupon'),
     path('search/',views.search, name='search'),
+    path('orders/',views.completedOrders, name='orders'),
+    path('order/<str:ref>/',views.seeCompletedOrder, name='order'),
     path('refund/',views.RefundCreate.as_view(), name='refund'),
     path('category/<str:category>/',views.categoryView, name='category'),
     

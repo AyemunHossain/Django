@@ -89,8 +89,9 @@ class OrderItem(models.Model):
          else:
              return None
 			 
-             
-             
+    def get_item_total_quantity(self):
+            return (self.quantity)
+        
 class Order(models.Model):
     user 			= models.ForeignKey(User,on_delete=models.CASCADE)
     items 			= models.ManyToManyField(OrderItem)
@@ -99,12 +100,13 @@ class Order(models.Model):
     ordered_date	= models.DateTimeField()
     ordered 		= models.BooleanField(default = False)
     billing_address = models.ForeignKey('BillingAddress', null=True, blank=True,
-                                on_delete=models.SET_NULL)
+                            on_delete=models.SET_NULL)
     payment         = models.ForeignKey('Payment', null=True, blank=True,
-                                on_delete=models.SET_NULL)
+                            on_delete=models.SET_NULL)
     coupon          = models.ForeignKey('Coupon', null=True, blank=True,
-                                on_delete=models.SET_NULL)
+                            on_delete=models.SET_NULL)
     
+    payment_status  = models.BooleanField(default=False)
     delivering      = models.BooleanField(default = False)
     recieved        = models.BooleanField(default = False)
     refund_request  = models.BooleanField(default = False)
@@ -113,6 +115,12 @@ class Order(models.Model):
     def __str__(self):
         return f"{self.refrence_code}"
 
+    def total_quantity (self):
+        total = 0
+        for q in self.items.all():
+            total += int(q.get_item_total_quantity())
+        return total
+    
     def get_total_bill(self):
         total = 0
         for order_item in self.items.all():
@@ -157,6 +165,7 @@ class Payment(models.Model):
     user = models.ForeignKey(User,on_delete=models.SET_NULL, null=True, blank=True )
     stripe_charge_id = models.CharField(max_length=50,null=True, blank=True )
     amount = models.FloatField(default=0.0)
+    status = models.BooleanField(default=False)
     timestamp = models.DateTimeField(auto_now_add=True)
     
     def __str__(self):

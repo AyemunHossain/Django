@@ -1,0 +1,76 @@
+{% extends 'base.html' %}
+
+{% load product_cart_template_tags %}
+
+{% block content %}
+
+<div class="container mt-5 pt-5">
+    {% if objects %}
+    <div class="table-responsive text-nowrap">
+        <h2> Your previous orders </h2>
+        <table class="table">
+          <thead>
+            <tr>
+              
+              <th scope="col">#</th>
+              <th scope="col">Order ID</th>
+              <th scope="col">Ordered Date</th>
+              <th scope="col">Total Quantity</th>
+              <th scope="col">Total Price</th>
+              <th scope="col">Payment Status </th>
+              <th scope="col">Refund Request</th>
+              <th scope="col">Refund Request Status</th>
+            </tr>
+          </thead>
+          <tbody>
+
+                {% for object in objects %}
+                <tr>
+                    <th scope="row">{{ forloop.counter }}</th>
+                    <td><a href="{% url 'core:order' object.refrence_code %}">{{object.refrence_code}}</a></td>
+                    <td>{{object.ordered_date}}</td>
+                    <td>{{object.total_quantity}}</td>
+                    <td>{{object.get_total_bill}}</td>
+                    <td>
+                        {% if object.payment_status %}
+                            <b>Paid</b>
+                        {% else %}
+                            <b>Panding</b>
+                        {% endif %}
+                    </td>
+                    <td>
+                        {% if object.refund_request %}
+                            <b><p class="btn-outline-info">Requested</p></b>
+                        {% else %}
+                            {% if forloop.last %}
+                            <b><a class="btn btn-outline-info " href="{% url 'core:refund' %}">Request</a></b>
+                            {% else %}
+                            <b><p class="btn-outline-dark">Unavailable</p></b>
+                            {% endif %}
+                        </td>
+                        {% endif %}
+                    <td>
+                        {% if object.refund_request %}
+                            {% if object.refund_granted %}
+                                <b><p class="btn-outline-info">Approved</p></b>
+                            {% else %}
+                                <b><p class="btn-outline-secondary">Not Approved</p></b>
+                            {% endif %}
+                        {% else %}
+
+                            <b>-</b>
+
+                        {% endif %}
+                    </td>
+
+                </tr>
+                {% endfor %}
+
+          </tbody>
+        </table>
+    </div>
+    {% endif  %}
+</div>
+    
+ 
+{% endblock content%}

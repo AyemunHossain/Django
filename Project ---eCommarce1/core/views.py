@@ -325,6 +325,7 @@ class PaymentView(LoginRequiredMixin,View):
 
             payment = Payment()
             payment.amount = amount
+            payment.status = True
             payment.user = request.user
             payment.save()
 
@@ -341,7 +342,7 @@ class PaymentView(LoginRequiredMixin,View):
             order.save()
             
             
-            messages.info(request,"Your Have Ordered Successfully")
+            messages.info(request,f"Your Have Ordered Successfully: order code: \"{order.refrence_code}\" <save it>")
             return redirect('/')
         else:
             return redirect('/')
@@ -471,4 +472,21 @@ class RefundCreate(LoginRequiredMixin,CreateView):
             order.save()
             return super().form_valid(form)
         
-            
+@login_required(login_url="account_login")
+def completedOrders(request):
+    ordered = Order.objects.filter(user=request.user,ordered=True)
+    
+    context = {
+        "objects":ordered,
+    }
+    return render(request,'ordered.html',context)
+
+@login_required(login_url="account_login")
+def seeCompletedOrder(request,ref):
+    ordered = Order.objects.get(user=request.user,ordered=True,refrence_code=ref)
+    print(ordered)
+    context = {
+        "object":ordered,
+    }
+    return render(request,'see-order.html',context)
+    
