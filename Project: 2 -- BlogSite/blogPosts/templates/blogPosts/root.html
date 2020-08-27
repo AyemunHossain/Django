@@ -1,0 +1,74 @@
+<head>
+
+	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	{% load static %}
+	<!---Bootstrap css -->
+	<link href="{% static 'blogPosts/css/bootstrap.min.css' %}" rel="stylesheet">
+	<link href="{% static 'blogPosts/css/custom.css' %}" rel="stylesheet">
+	<link href="{% static 'blogPosts/css/font-awesome.min.css' %}" rel="stylesheet">
+	
+	{% if title %}
+	    <title>{{ title|slice:15 }}... | Blogger</title>
+	{% else %}
+	    <title>Blogger</title>
+	{% endif %}
+
+</head>
+
+<body>
+	
+	{% include 'blogPosts/includes/navbar.html' %}
+	<div class="first-div">
+
+		<main role="main" class="container">
+		    <div class="row">
+		        <div class="col-md-8 gedf-main">
+				 {% include 'blogPosts/includes/messages.html' %}
+
+		         {% block content %}{% endblock content %}
+		        </div>
+		    <div class="col-md-4">
+
+		    	{% block sidebar %}{% endblock sidebar %}
+		    	
+		    </div>
+		    </div>
+		</main>
+		
+	</div>
+	<!--Bootstrap js -->
+
+		<!--Jquery js -->
+		<script type="text/javascript" src="{% static 'blogPosts/js/jquery-3.4.1.slim.min.js'%}"></script>
+		<!--Popper js -->
+		<script type="text/javascript" src="{% static 'blogPosts/js/popper.min.js'%}"></script>	
+		<!--Bootstrap js -->
+		<script type="text/javascript" src="{% static 'blogPosts/js/bootstrap.js'%}"></script>
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

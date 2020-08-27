@@ -1,0 +1,28 @@
+<div class="card gedf-card">
+    <div class="card-header">
+        <div class="d-flex justify-content-between align-items-center">
+            <div class="d-flex justify-content-between align-items-center">
+                <div class="mr-2">
+                    {% if post.image %}
+                    <img  style="height:40x; width: 60px;" src="{{post.image.url}}">
+                    {% endif %}
+                </div>
+                <div class="ml-2">
+                    <div class="h5 m-0"><a href="{% url 'blogPosts:userPostsPage' post.author.username %}">
+                    {{ post.author }}</a>
+                    </div>
+                    
+                    <div class="h7 text-muted">{{ post.date|date:"F d, Y" }}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-body">
+        <h3 align="center"><u> {{ post.title }}</u></h3>
+
+        <p class="card-text">{{ post.content }}</a>
+
+        </p>
+    </div>
+</div>

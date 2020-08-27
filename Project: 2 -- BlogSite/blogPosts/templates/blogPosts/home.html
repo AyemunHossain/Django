@@ -1,0 +1,25 @@
+{% extends 'blogPosts/root.html' %}
+
+{% block content %}
+  
+  {% if user.is_authenticated %}
+  <div class="container">
+  <a href="{% url 'blogPosts:postCreate' %}">
+  <img class="rounded-circle article-img" src="media/plus.png">
+  </a>
+    <p> Create Post</p>
+  </div>
+  {% endif %}
+
+  {% for post in page_obj %}
+  {% include 'blogPosts/includes/show_post_in_list.html' %}
+  {% endfor %}
+
+  {% include 'blogPosts/includes/pagination.html' %}
+
+{% endblock content %}
+
+{% block sidebar %}
+  {% include 'blogPosts/includes/sidebar.html' %}
+{% endblock sidebar%}
+

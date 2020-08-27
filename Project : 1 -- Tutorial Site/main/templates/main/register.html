@@ -1,0 +1,24 @@
+{% extends 'main/masterpage.html'%}
+
+{% block content%}
+	
+	<form method="post">
+		{% csrf_token %}
+		{% for field in form %}
+			{{ field.label_tag }}<br>
+				{{ field }}
+			{% if field.help_text %}
+					
+				<small style="color: grey">{{ field.help_text }}</small>
+				<br><br>
+				
+			{% endif %}
+		{% endfor %}
+		<button type="submit" class="btn">Submit</button>
+
+	</form>
+	<p>If you already have an account, <a href="/login"><b><i>Login</i></b></a> instead</p>
+	<br>
+	<br>
+
+{% endblock%}

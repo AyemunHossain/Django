@@ -1,0 +1,41 @@
+{% extends 'main/masterpage.html'%}
+
+{% block content %}
+	<div class="row">
+	  <div class="col s12 m6 l8">
+	    <h3> {{this_tutorial.tutorial_title}}</h3>
+	    <p style="font-size:70%">Published : {{this_tutorial.tutorial_date}}</p>
+	    
+	    {{this_tutorial.tutorial_content | safe}}
+
+	  </div>
+
+	  <div class="col s12 m4 l4">
+	    <ul class="collapsible popout">
+	        {% for tut in series_all_tutorials %}
+
+	        	{% if forloop.counter0 == current_tut_inx %}
+	        		<li class="active">
+	        		<div class="collapsible-header"><b>{{tut.tutorial_title}}</b></div>
+	        		</li>
+	        	{% else %}
+	        	  	<li>
+	        	    <div class="collapsible-header">{{tut.tutorial_title}}</div>
+	        	    <div class="collapsible-body">
+	        	     <p>
+	        	     	<a href="/{{tut.tutorial_slug}}">
+	        	     		<button class="btn waves-effect waves-light right-align" style="background-color:yellow; color:black">Go
+	        	     		</button>
+	        	     	</a>
+	        	     </p>
+
+	        	    </div>
+	        	        </li>
+	        	{% endif %}
+
+	        {% endfor %}
+
+	             </ul>
+	  </div>
+	</div>
+{% endblock %}
