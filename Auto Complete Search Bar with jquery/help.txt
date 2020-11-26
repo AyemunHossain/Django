@@ -1,0 +1,8 @@
+This is so simple project as we are doing here a task,
+	With the help of jquery we auto completing search bar.
+	With the title of products from database.
+
+--------------------------
+admin user: ashik	 -
+pass: ashik		 -
+--------------------------

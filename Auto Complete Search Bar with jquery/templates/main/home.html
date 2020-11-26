@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Auto Search complete </title>
+
+		<style>
+		  .ui-autocomplete {
+		    max-height: 180px;
+		    overflow-y: auto;
+		    /* prevent horizontal scrollbar */
+		    overflow-x: hidden;
+		  }
+		  /* IE 6 doesn't support max-height
+		   * we use height instead, but this forces the menu to always be this tall
+		   */
+		  * html .ui-autocomplete {
+		    height: 100px;
+		  }
+		  </style>
+
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+</head>
+<body>
+<form>
+
+	<label for="product">Product</label>
+	<input type="text" name="product" id="product">
+
+	
+
+</form>
+
+	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  	
+	<script>
+  $( function() {
+    $("#product").autocomplete({
+
+      source: '{% url 'main:autocomplete' %}'
+
+      });
+  });
+  </script>
+
+
+
+	<div style="margin-top: 200px">
+		<em>
+			<b>
+				this text for you help :
+			</b>
+			<br>our available products in database is :RFL
+			<br>RSL
+			<br>Underware
+			<br>Three-pics
+			<br>Women Shari
+			<br>Polo Shirt
+			<br>Polo Tshirt
+			<br>Denim Shirt
+			<br>Mens shirt
+			<br>
+			<br>
+			<br>searh these to get result
+		</em>
+
+
+	</div>	
+
+  	
+</body>
+</html>
