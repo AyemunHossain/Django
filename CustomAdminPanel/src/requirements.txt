@@ -1,0 +1,10 @@
+Django==2.1.5
+django-admin-thumbnails==0.2.5
+django-crispy-forms==1.10.0
+django-fieldsets-with-inlines==0.6
+django-js-asset==1.2.2
+django-mptt==0.11.0
+django-simple-history==2.12.0
+Pillow==8.0.1
+pytz==2020.4
+six==1.15.0

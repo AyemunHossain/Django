@@ -1,0 +1,46 @@
+.module h2, .module caption, .inline-group h2 {
+    margin: 0;
+    padding: 8px;
+    font-weight: 400;
+    font-size: 13px;
+    text-align: left;
+    background: #002844;
+    color: #fff;
+}
+
+#header {
+    background: #2c3235;
+}
+
+div.breadcrumbs {
+    background: #62686b;
+    padding: 10px 40px;
+    border: none;
+    font-size: 16px;
+    color: #c4dce8;
+    text-align: left;
+}
+
+.login .submit-row {
+    padding: 0px !important;
+}
+
+.submit-row input, a.button {
+    width: 100%;
+}
+
+.dashboard #content {
+    width: 900px;
+}
+
+.object-tools a {
+    border-radius: 10px;
+}
+
+
+.object-tools a:link, .object-tools a:visited {
+    background: #5f5959;
+    font-weight: 400;
+    font-size: 13px;
+    color: #fff;
+}
