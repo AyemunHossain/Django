@@ -1,4 +1,4 @@
-Django==2.1.5
+Django==2.2.13
 django-admin-thumbnails==0.2.5
 django-crispy-forms==1.10.0
 django-fieldsets-with-inlines==0.6
