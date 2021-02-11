@@ -13,7 +13,7 @@ class ProfileSerializers(serializers.ModelSerializer):
 		}
 
 	def create(self, validate_data):
-		user = models.Account.objects.create_user(
+		user = Account.objects.create_user(
 				email = validate_data['email'],
 				username = validate_data['username'],
 				first_name = validate_data['first_name'],
@@ -28,4 +28,3 @@ class ProfileFeedItemSerializer(serializers.ModelSerializer):
 		model = ProfileFeedItem
 		fields = ('id','user_profile','status_text','created')
 		extra_kwargs = {'user_profile':{'read_only':True}}
-		

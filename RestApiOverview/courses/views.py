@@ -36,8 +36,6 @@ class RetrieveUpdateDestoryReview(generics.RetrieveUpdateDestroyAPIView):
 	permission_classes = (IsAuthenticatedOrReadOnly,)
 
 
-
-
 class CourseViewset(viewsets.ModelViewSet):
 	queryset = Courses.objects.all()
 	serializer_class = serializers.CoursesSerializer

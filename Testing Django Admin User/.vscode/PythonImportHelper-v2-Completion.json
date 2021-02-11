@@ -1,0 +1,625 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "Account",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "gettext",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0001_initial",
+        "description": "core.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Account',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('password', models.CharField(max_length=128, verbose_name='password')),",
+        "detail": "core.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0002_account_is_superuser",
+        "description": "core.migrations.0002_account_is_superuser",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='account',\n            name='is_superuser',\n            field=models.BooleanField(default=False),\n        ),",
+        "detail": "core.migrations.0002_account_is_superuser",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0003_auto_20210210_1749",
+        "description": "core.migrations.0003_auto_20210210_1749",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('auth', '0011_update_proxy_permissions'),\n        ('core', '0002_account_is_superuser'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='account',\n            name='groups',\n            field=models.ManyToManyField(blank=True, help_text='The groups this user belongs to. A user will get all permissions granted to each of their groups.', related_name='user_set', related_query_name='user', to='auth.Group', verbose_name='groups'),",
+        "detail": "core.migrations.0003_auto_20210210_1749",
+        "documentation": {}
+    },
+    {
+        "label": "AdminSiteTests",
+        "kind": 6,
+        "importPath": "core.tests.test_admin",
+        "description": "core.tests.test_admin",
+        "peekOfCode": "class AdminSiteTests(TestCase):\n    def setUp(self):\n        self.client = Client()\n        payloads = {'email':'ah@gmail.com','password':'test1234'}\n        payloads2 = {'email': 'aaaa@gmail.com', 'password': 'test12345'}\n        self.admin_user = get_user_model().objects.create_superuser(**payloads)\n        self.client.force_login(self.admin_user)\n        self.user = get_user_model().objects.create_user(**payloads2)\n    def test_user_listed(self):\n        \"\"\"Test if the user email is listed or not with a user email\"\"\"",
+        "detail": "core.tests.test_admin",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTest",
+        "kind": 6,
+        "importPath": "core.tests.test_models",
+        "description": "core.tests.test_models",
+        "peekOfCode": "class ModelTest(TestCase):\n\tdef test_create_user_with_email(self):\n\t\t\"\"\"Testing creating a new user with an email\"\"\"\n\t\temail = \"ah@gmail.com\"\n\t\tpassword = 'testpass1'\n\t\tuser = get_user_model().objects.create_user(\n\t\t\temail = email,\n\t\t\tpassword = password,)\n\t\tself.assertEqual(user.email, email)\n\t\tself.assertTrue(user.check_password(password))",
+        "detail": "core.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\temail",
+        "kind": 5,
+        "importPath": "core.tests.test_models",
+        "description": "core.tests.test_models",
+        "peekOfCode": "\t\temail = \"ah@gmail.com\"\n\t\tpassword = 'testpass1'\n\t\tuser = get_user_model().objects.create_user(\n\t\t\temail = email,\n\t\t\tpassword = password,)\n\t\tself.assertEqual(user.email, email)\n\t\tself.assertTrue(user.check_password(password))\n\tdef test_create_user_with_username(self):\n\t\t\"\"\"Testing creating user with username\"\"\"\n\t\tpayload = {\t\"username\" : \"ashik1\",",
+        "detail": "core.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpassword",
+        "kind": 5,
+        "importPath": "core.tests.test_models",
+        "description": "core.tests.test_models",
+        "peekOfCode": "\t\tpassword = 'testpass1'\n\t\tuser = get_user_model().objects.create_user(\n\t\t\temail = email,\n\t\t\tpassword = password,)\n\t\tself.assertEqual(user.email, email)\n\t\tself.assertTrue(user.check_password(password))\n\tdef test_create_user_with_username(self):\n\t\t\"\"\"Testing creating user with username\"\"\"\n\t\tpayload = {\t\"username\" : \"ashik1\",\n                    \"password\" : \"123a123r\"}",
+        "detail": "core.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser",
+        "kind": 5,
+        "importPath": "core.tests.test_models",
+        "description": "core.tests.test_models",
+        "peekOfCode": "\t\tuser = get_user_model().objects.create_user(\n\t\t\temail = email,\n\t\t\tpassword = password,)\n\t\tself.assertEqual(user.email, email)\n\t\tself.assertTrue(user.check_password(password))\n\tdef test_create_user_with_username(self):\n\t\t\"\"\"Testing creating user with username\"\"\"\n\t\tpayload = {\t\"username\" : \"ashik1\",\n                    \"password\" : \"123a123r\"}\n\t\twith self.assertRaises(TypeError,):",
+        "detail": "core.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\temail",
+        "kind": 5,
+        "importPath": "core.tests.test_models",
+        "description": "core.tests.test_models",
+        "peekOfCode": "\t\t\temail = email,\n\t\t\tpassword = password,)\n\t\tself.assertEqual(user.email, email)\n\t\tself.assertTrue(user.check_password(password))\n\tdef test_create_user_with_username(self):\n\t\t\"\"\"Testing creating user with username\"\"\"\n\t\tpayload = {\t\"username\" : \"ashik1\",\n                    \"password\" : \"123a123r\"}\n\t\twith self.assertRaises(TypeError,):\n\t\t\tuser = get_user_model().objects.create_user(**payload)",
+        "detail": "core.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tpassword",
+        "kind": 5,
+        "importPath": "core.tests.test_models",
+        "description": "core.tests.test_models",
+        "peekOfCode": "\t\t\tpassword = password,)\n\t\tself.assertEqual(user.email, email)\n\t\tself.assertTrue(user.check_password(password))\n\tdef test_create_user_with_username(self):\n\t\t\"\"\"Testing creating user with username\"\"\"\n\t\tpayload = {\t\"username\" : \"ashik1\",\n                    \"password\" : \"123a123r\"}\n\t\twith self.assertRaises(TypeError,):\n\t\t\tuser = get_user_model().objects.create_user(**payload)\n\tdef test_create_superuser(self):",
+        "detail": "core.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpayload",
+        "kind": 5,
+        "importPath": "core.tests.test_models",
+        "description": "core.tests.test_models",
+        "peekOfCode": "\t\tpayload = {\t\"username\" : \"ashik1\",\n                    \"password\" : \"123a123r\"}\n\t\twith self.assertRaises(TypeError,):\n\t\t\tuser = get_user_model().objects.create_user(**payload)\n\tdef test_create_superuser(self):\n\t\t\"\"\"Testing the superuser account creation\"\"\"\n\t\tpayload = {\"email\": \"ah@gmail.com\", \"password\" :'testpass1'}\n\t\tuser = get_user_model().objects.create_user(**payload)\n\t\tself.assertEqual(user.email, payload[\"email\"])\n\t\tself.assertTrue(user.check_password(payload[\"password\"]))",
+        "detail": "core.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tuser",
+        "kind": 5,
+        "importPath": "core.tests.test_models",
+        "description": "core.tests.test_models",
+        "peekOfCode": "\t\t\tuser = get_user_model().objects.create_user(**payload)\n\tdef test_create_superuser(self):\n\t\t\"\"\"Testing the superuser account creation\"\"\"\n\t\tpayload = {\"email\": \"ah@gmail.com\", \"password\" :'testpass1'}\n\t\tuser = get_user_model().objects.create_user(**payload)\n\t\tself.assertEqual(user.email, payload[\"email\"])\n\t\tself.assertTrue(user.check_password(payload[\"password\"]))\n\tdef test_create_superuser_without_password(self):\n\t\t\"\"\"Testing the superuser account creation\"\"\"\n\t\tpayload = {\"email\": \"ah@gmail.com\",}",
+        "detail": "core.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpayload",
+        "kind": 5,
+        "importPath": "core.tests.test_models",
+        "description": "core.tests.test_models",
+        "peekOfCode": "\t\tpayload = {\"email\": \"ah@gmail.com\", \"password\" :'testpass1'}\n\t\tuser = get_user_model().objects.create_user(**payload)\n\t\tself.assertEqual(user.email, payload[\"email\"])\n\t\tself.assertTrue(user.check_password(payload[\"password\"]))\n\tdef test_create_superuser_without_password(self):\n\t\t\"\"\"Testing the superuser account creation\"\"\"\n\t\tpayload = {\"email\": \"ah@gmail.com\",}\n\t\twith self.assertRaises(TypeError):\n\t\t\tuser = get_user_model().objects.create_user(**payload)\n\t\t\tself.assertEqual(user.email, payload[\"password\"])",
+        "detail": "core.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser",
+        "kind": 5,
+        "importPath": "core.tests.test_models",
+        "description": "core.tests.test_models",
+        "peekOfCode": "\t\tuser = get_user_model().objects.create_user(**payload)\n\t\tself.assertEqual(user.email, payload[\"email\"])\n\t\tself.assertTrue(user.check_password(payload[\"password\"]))\n\tdef test_create_superuser_without_password(self):\n\t\t\"\"\"Testing the superuser account creation\"\"\"\n\t\tpayload = {\"email\": \"ah@gmail.com\",}\n\t\twith self.assertRaises(TypeError):\n\t\t\tuser = get_user_model().objects.create_user(**payload)\n\t\t\tself.assertEqual(user.email, payload[\"password\"])",
+        "detail": "core.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpayload",
+        "kind": 5,
+        "importPath": "core.tests.test_models",
+        "description": "core.tests.test_models",
+        "peekOfCode": "\t\tpayload = {\"email\": \"ah@gmail.com\",}\n\t\twith self.assertRaises(TypeError):\n\t\t\tuser = get_user_model().objects.create_user(**payload)\n\t\t\tself.assertEqual(user.email, payload[\"password\"])",
+        "detail": "core.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tuser",
+        "kind": 5,
+        "importPath": "core.tests.test_models",
+        "description": "core.tests.test_models",
+        "peekOfCode": "\t\t\tuser = get_user_model().objects.create_user(**payload)\n\t\t\tself.assertEqual(user.email, payload[\"password\"])",
+        "detail": "core.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "AccountAdmin",
+        "kind": 6,
+        "importPath": "core.admin",
+        "description": "core.admin",
+        "peekOfCode": "class AccountAdmin(UserAdmin):\n    ordering = ['id']\n    list_display = ['email']\n    readonly_fields = ('date_joined','last_login')\n    fieldsets = (\n        (_(\"User Details\"), {'fields': ('email', )}),\n        (_(\"Account Details\"), {'fields': ('date_joined', 'last_login')}),\n        (_(\"Permission\"), {'fields': ('is_active', 'is_staff', 'is_admin')}),\n    )\n    add_fieldsets = (",
+        "detail": "core.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CoreConfig",
+        "kind": 6,
+        "importPath": "core.apps",
+        "description": "core.apps",
+        "peekOfCode": "class CoreConfig(AppConfig):\n    name = 'core'",
+        "detail": "core.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserManager",
+        "kind": 6,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "class UserManager(BaseUserManager):\n\tdef create_user(self, email, password, **extra_fields):\n\t\tuser = self.model(email=self.normalize_email(email))\n\t\tuser.set_password(password)\n\t\tuser.save(using = self._db)\n\t\treturn user\n\tdef create_superuser(self, email, password):\n\t\tuser = self.create_user(email, password)\n\t\tuser.is_admin=True\n\t\tuser.is_staff=True",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Account",
+        "kind": 6,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "class Account(AbstractBaseUser, PermissionsMixin):\n\temail \t\t\t\t= models.EmailField(verbose_name='email', unique=True, max_length=60)\n\tdate_joined \t\t= models.DateTimeField(verbose_name='date joined', auto_now_add=True)\n\tlast_login \t\t\t= models.DateTimeField(verbose_name='last login', auto_now=True)\n\tis_admin    \t\t= models.BooleanField(default=False)\n\tis_active \t\t\t= models.BooleanField(default=True)\n\tis_superuser \t\t= models.BooleanField(default=False)\n\tis_staff \t\t\t= models.BooleanField(default=False) \n\tUSERNAME_FIELD \t\t= 'email'\n\t# REQUIRED_FIELDS = ['username',]",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser",
+        "kind": 5,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "\t\tuser = self.model(email=self.normalize_email(email))\n\t\tuser.set_password(password)\n\t\tuser.save(using = self._db)\n\t\treturn user\n\tdef create_superuser(self, email, password):\n\t\tuser = self.create_user(email, password)\n\t\tuser.is_admin=True\n\t\tuser.is_staff=True\n\t\tuser.is_superuser=True\n\t\tuser.save(using = self._db)",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser.save(using",
+        "kind": 5,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "\t\tuser.save(using = self._db)\n\t\treturn user\n\tdef create_superuser(self, email, password):\n\t\tuser = self.create_user(email, password)\n\t\tuser.is_admin=True\n\t\tuser.is_staff=True\n\t\tuser.is_superuser=True\n\t\tuser.save(using = self._db)\n\t\treturn user\nclass Account(AbstractBaseUser, PermissionsMixin):",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser",
+        "kind": 5,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "\t\tuser = self.create_user(email, password)\n\t\tuser.is_admin=True\n\t\tuser.is_staff=True\n\t\tuser.is_superuser=True\n\t\tuser.save(using = self._db)\n\t\treturn user\nclass Account(AbstractBaseUser, PermissionsMixin):\n\temail \t\t\t\t= models.EmailField(verbose_name='email', unique=True, max_length=60)\n\tdate_joined \t\t= models.DateTimeField(verbose_name='date joined', auto_now_add=True)\n\tlast_login \t\t\t= models.DateTimeField(verbose_name='last login', auto_now=True)",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser.save(using",
+        "kind": 5,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "\t\tuser.save(using = self._db)\n\t\treturn user\nclass Account(AbstractBaseUser, PermissionsMixin):\n\temail \t\t\t\t= models.EmailField(verbose_name='email', unique=True, max_length=60)\n\tdate_joined \t\t= models.DateTimeField(verbose_name='date joined', auto_now_add=True)\n\tlast_login \t\t\t= models.DateTimeField(verbose_name='last login', auto_now=True)\n\tis_admin    \t\t= models.BooleanField(default=False)\n\tis_active \t\t\t= models.BooleanField(default=True)\n\tis_superuser \t\t= models.BooleanField(default=False)\n\tis_staff \t\t\t= models.BooleanField(default=False) ",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'l)uzfoi(^41#o)@s@0)8l@obix#ik5+)ev&&%^#31m8q_0jo*h'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "SECRET_KEY = 'l)uzfoi(^41#o)@s@0)8l@obix#ik5+)ev&&%^#31m8q_0jo*h'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'core.apps.CoreConfig',",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'core.apps.CoreConfig',\n]\nMIDDLEWARE = [",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'TestDev.urls'",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "ROOT_URLCONF = 'TestDev.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'TestDev.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nAUTH_USER_MODEL = \"core.Account\"",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nAUTH_USER_MODEL = \"core.Account\"",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nAUTH_USER_MODEL = \"core.Account\"",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nAUTH_USER_MODEL = \"core.Account\"",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nAUTH_USER_MODEL = \"core.Account\"",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nAUTH_USER_MODEL = \"core.Account\"",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "TestDev.settings",
+        "description": "TestDev.settings",
+        "peekOfCode": "AUTH_USER_MODEL = \"core.Account\"",
+        "detail": "TestDev.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "TestDev.urls",
+        "description": "TestDev.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n]",
+        "detail": "TestDev.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "TestDev.wsgi",
+        "description": "TestDev.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "TestDev.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'TestDev.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n        ) from exc",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
