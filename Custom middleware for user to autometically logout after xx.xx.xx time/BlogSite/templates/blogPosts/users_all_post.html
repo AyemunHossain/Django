@@ -1,0 +1,27 @@
+{% extends 'blogPosts/root.html' %}
+
+{% block content %}
+	<div class="container">
+	</div>
+		<a class="btn-secondary btn-lg btn-block" , href="{% url 'users:userPublicProfile' view.kwargs.username %}">
+			<b>Author Profile</b>
+		</a>
+	<p>
+	</p>
+
+	<div class="container">
+		<legend class="border-bottom mb-4" ><h1>Posts by 
+				<a  href="{% url 'users:userPublicProfile' view.kwargs.username %}">
+					{{ view.kwargs.username }}
+				</a>
+			 | Total post : ({{ page_obj.paginator.count }})</h1>
+		</legend>
+   	</div>
+
+  {% for post in posts %}
+  {% include 'blogPosts/includes/show_post_in_list.html' %}
+  {% endfor %}
+  
+  {% include 'blogPosts/includes/pagination.html' %}
+  
+{% endblock content %}

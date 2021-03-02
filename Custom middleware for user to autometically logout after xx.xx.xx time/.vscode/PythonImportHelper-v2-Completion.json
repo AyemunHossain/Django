@@ -1,0 +1,1873 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessMessageMixin",
+        "importPath": "django.contrib.messages.views",
+        "description": "django.contrib.messages.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.messages.views",
+        "documentation": {}
+    },
+    {
+        "label": "Paginator",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequiredMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "UserPassesTestMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "MiddlewareMixin",
+        "importPath": "django.utils.deprecation",
+        "description": "django.utils.deprecation",
+        "isExtraImport": true,
+        "detail": "django.utils.deprecation",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoJSONEncoder",
+        "importPath": "django.core.serializers.json",
+        "description": "django.core.serializers.json",
+        "isExtraImport": true,
+        "detail": "django.core.serializers.json",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoJSONEncoder",
+        "importPath": "django.core.serializers.json",
+        "description": "django.core.serializers.json",
+        "isExtraImport": true,
+        "detail": "django.core.serializers.json",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "BlogSite.blogPosts.migrations.0001_initial",
+        "description": "BlogSite.blogPosts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='blogPost',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "BlogSite.blogPosts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "BlogpostsConfig",
+        "kind": 6,
+        "importPath": "BlogSite.blogPosts.apps",
+        "description": "BlogSite.blogPosts.apps",
+        "peekOfCode": "class BlogpostsConfig(AppConfig):\n    name = 'blogPosts'",
+        "detail": "BlogSite.blogPosts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "blogPost",
+        "kind": 6,
+        "importPath": "BlogSite.blogPosts.models",
+        "description": "BlogSite.blogPosts.models",
+        "peekOfCode": "class blogPost(models.Model):\n\timage = models.ImageField(blank=True, null=True,upload_to=\"post/%Y/%m/%d/\")\n\ttitle = models.CharField(max_length=200)\n\tcontent = models.TextField()\n\tdate = models.DateTimeField(default=timezone.now)\n\tauthor = models.ForeignKey(User,on_delete=models.CASCADE)\n\tdef __str__(self):\n\t\treturn self.title\n\tdef get_absolute_url(self):\n\t\treturn reverse('blogPosts:postDetail', kwargs = {'pk':self.pk})",
+        "detail": "BlogSite.blogPosts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\timage",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.models",
+        "description": "BlogSite.blogPosts.models",
+        "peekOfCode": "\timage = models.ImageField(blank=True, null=True,upload_to=\"post/%Y/%m/%d/\")\n\ttitle = models.CharField(max_length=200)\n\tcontent = models.TextField()\n\tdate = models.DateTimeField(default=timezone.now)\n\tauthor = models.ForeignKey(User,on_delete=models.CASCADE)\n\tdef __str__(self):\n\t\treturn self.title\n\tdef get_absolute_url(self):\n\t\treturn reverse('blogPosts:postDetail', kwargs = {'pk':self.pk})\n\tdef save(self,*args,**kwargs):",
+        "detail": "BlogSite.blogPosts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\ttitle",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.models",
+        "description": "BlogSite.blogPosts.models",
+        "peekOfCode": "\ttitle = models.CharField(max_length=200)\n\tcontent = models.TextField()\n\tdate = models.DateTimeField(default=timezone.now)\n\tauthor = models.ForeignKey(User,on_delete=models.CASCADE)\n\tdef __str__(self):\n\t\treturn self.title\n\tdef get_absolute_url(self):\n\t\treturn reverse('blogPosts:postDetail', kwargs = {'pk':self.pk})\n\tdef save(self,*args,**kwargs):\n\t\tif self.pk != None :",
+        "detail": "BlogSite.blogPosts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tcontent",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.models",
+        "description": "BlogSite.blogPosts.models",
+        "peekOfCode": "\tcontent = models.TextField()\n\tdate = models.DateTimeField(default=timezone.now)\n\tauthor = models.ForeignKey(User,on_delete=models.CASCADE)\n\tdef __str__(self):\n\t\treturn self.title\n\tdef get_absolute_url(self):\n\t\treturn reverse('blogPosts:postDetail', kwargs = {'pk':self.pk})\n\tdef save(self,*args,**kwargs):\n\t\tif self.pk != None :\n\t\t\tsuper(blogPost,self).save(*args,**kwargs)",
+        "detail": "BlogSite.blogPosts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tdate",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.models",
+        "description": "BlogSite.blogPosts.models",
+        "peekOfCode": "\tdate = models.DateTimeField(default=timezone.now)\n\tauthor = models.ForeignKey(User,on_delete=models.CASCADE)\n\tdef __str__(self):\n\t\treturn self.title\n\tdef get_absolute_url(self):\n\t\treturn reverse('blogPosts:postDetail', kwargs = {'pk':self.pk})\n\tdef save(self,*args,**kwargs):\n\t\tif self.pk != None :\n\t\t\tsuper(blogPost,self).save(*args,**kwargs)\n\t\t\tif self.image:",
+        "detail": "BlogSite.blogPosts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tauthor",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.models",
+        "description": "BlogSite.blogPosts.models",
+        "peekOfCode": "\tauthor = models.ForeignKey(User,on_delete=models.CASCADE)\n\tdef __str__(self):\n\t\treturn self.title\n\tdef get_absolute_url(self):\n\t\treturn reverse('blogPosts:postDetail', kwargs = {'pk':self.pk})\n\tdef save(self,*args,**kwargs):\n\t\tif self.pk != None :\n\t\t\tsuper(blogPost,self).save(*args,**kwargs)\n\t\t\tif self.image:\n\t\t\t\timg = Image.open(self.image.path)",
+        "detail": "BlogSite.blogPosts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\timg",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.models",
+        "description": "BlogSite.blogPosts.models",
+        "peekOfCode": "\t\t\t\timg = Image.open(self.image.path)\n\t\t\t\tif img.height > 200 or img.width >900:\n\t\t\t\t\toutput_size = (200,900)\n\t\t\t\t\timg.thumbnail(output_size)\n\t\t\t\t\timg.save(self.image.path)\n\t\tif self.pk is None :\n\t\t\tsuper(blogPost,self).save(*args,**kwargs)\n\t\t\tif self.image != None:\n\t\t\t\tsuper(blogPost,self).save(*args,**kwargs)\n\t\t\t\timg = Image.open(self.image.path)",
+        "detail": "BlogSite.blogPosts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\toutput_size",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.models",
+        "description": "BlogSite.blogPosts.models",
+        "peekOfCode": "\t\t\t\t\toutput_size = (200,900)\n\t\t\t\t\timg.thumbnail(output_size)\n\t\t\t\t\timg.save(self.image.path)\n\t\tif self.pk is None :\n\t\t\tsuper(blogPost,self).save(*args,**kwargs)\n\t\t\tif self.image != None:\n\t\t\t\tsuper(blogPost,self).save(*args,**kwargs)\n\t\t\t\timg = Image.open(self.image.path)\n\t\t\t\tif img.height > 200 or img.width >900:\n\t\t\t\t\toutput_size = (200,900)",
+        "detail": "BlogSite.blogPosts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\timg",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.models",
+        "description": "BlogSite.blogPosts.models",
+        "peekOfCode": "\t\t\t\timg = Image.open(self.image.path)\n\t\t\t\tif img.height > 200 or img.width >900:\n\t\t\t\t\toutput_size = (200,900)\n\t\t\t\t\timg.thumbnail(output_size)\n\t\t\t\t\timg.save(self.image.path)",
+        "detail": "BlogSite.blogPosts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\toutput_size",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.models",
+        "description": "BlogSite.blogPosts.models",
+        "peekOfCode": "\t\t\t\t\toutput_size = (200,900)\n\t\t\t\t\timg.thumbnail(output_size)\n\t\t\t\t\timg.save(self.image.path)",
+        "detail": "BlogSite.blogPosts.models",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.urls",
+        "description": "BlogSite.blogPosts.urls",
+        "peekOfCode": "app_name = \"blogPosts\"\nurlpatterns = [\n\tpath('',views.homePage,name=\"homePage\"),\n\tpath('posts/<str:username>/',UserPostsListView.as_view(),name=\"userPostsPage\"),\n\tpath('post/<int:pk>/',PostDetailView.as_view(),name=\"postDetail\"),\n\tpath('post/create/',login_required(PostCreateView.as_view()),name=\"postCreate\"),\n\tpath('post/<int:pk>/update/',login_required(PostUpdateView.as_view()),name=\"postUpdate\"),\n\tpath('post/<int:pk>/delete/',login_required(PostDeleteView.as_view()),name=\"postDelete\"),\n]",
+        "detail": "BlogSite.blogPosts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.urls",
+        "description": "BlogSite.blogPosts.urls",
+        "peekOfCode": "urlpatterns = [\n\tpath('',views.homePage,name=\"homePage\"),\n\tpath('posts/<str:username>/',UserPostsListView.as_view(),name=\"userPostsPage\"),\n\tpath('post/<int:pk>/',PostDetailView.as_view(),name=\"postDetail\"),\n\tpath('post/create/',login_required(PostCreateView.as_view()),name=\"postCreate\"),\n\tpath('post/<int:pk>/update/',login_required(PostUpdateView.as_view()),name=\"postUpdate\"),\n\tpath('post/<int:pk>/delete/',login_required(PostDeleteView.as_view()),name=\"postDelete\"),\n]",
+        "detail": "BlogSite.blogPosts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserPostsListView",
+        "kind": 6,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "class UserPostsListView(ListView):\n\tmodel = blogPost\n\ttemplate_name = 'blogPosts/users_all_post.html'\n\tcontext_object_name = 'posts'\n\tpaginate_by = 4\t\n\tdef get_queryset(self):\n\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn blogPost.objects.filter(author=user)\nclass PostDetailView(DetailView):\n\tmodel = blogPost",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "PostDetailView",
+        "kind": 6,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "class PostDetailView(DetailView):\n\tmodel = blogPost\n\tcontext_object_name = 'post'\n\ttemplate_name = 'blogPosts/post_detail.html'\nclass PostCreateView(LoginRequiredMixin, CreateView):\n\tmodel = blogPost\n\tfields = ['image','title','content']\n\ttemplate_name = 'blogPosts/create_post.html'\n\tdef form_valid(self,form):\n\t\tform.instance.author=self.request.user",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "PostCreateView",
+        "kind": 6,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "class PostCreateView(LoginRequiredMixin, CreateView):\n\tmodel = blogPost\n\tfields = ['image','title','content']\n\ttemplate_name = 'blogPosts/create_post.html'\n\tdef form_valid(self,form):\n\t\tform.instance.author=self.request.user\n\t\tmessages.info(self.request,\"Your post Created\")\n\t\treturn super().form_valid(form)\nclass PostUpdateView(LoginRequiredMixin,UserPassesTestMixin,\n\t\t\t\t\t\tSuccessMessageMixin, UpdateView):",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "PostUpdateView",
+        "kind": 6,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "class PostUpdateView(LoginRequiredMixin,UserPassesTestMixin,\n\t\t\t\t\t\tSuccessMessageMixin, UpdateView):\n\tmodel = blogPost\n\tfields = ['image','title','content']\n\ttemplate_name = 'blogPosts/create_post.html'\n\tsuccess_message = \"Your post was updated successfully\"\n\tdef test_func(self):\n\t\tpost = self.get_object()\n\t\tif self.request.user == post.author:\n\t\t\treturn True",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "PostDeleteView",
+        "kind": 6,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "class PostDeleteView(LoginRequiredMixin, UserPassesTestMixin, DeleteView):\n\tmodel = blogPost\n\ttemplate_name = 'blogPosts/post_delete.html'\n\tsuccess_url='/'\n\tdef test_func(self):\n\t\tpost = self.get_object()\n\t\tif self.request.user == post.author:\n\t\t\treturn True\n\t\treturn False\ndef homePage(request):",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "homePage",
+        "kind": 2,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "def homePage(request):\n\tposts = blogPost.objects.all().order_by('-date')\n\trecent_posts = blogPost.objects.all().order_by('date')[:3]\n\ttotal = User.objects.all().count()\n\ttry:\n\t\trecent_user = User.objects.all()[total-3:]\n\texcept:\n\t\trecent_user = User.objects.all()\n\tpaginator = Paginator(posts,5)\n\tpage_number = request.GET.get('page')",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tmodel",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tmodel = blogPost\n\ttemplate_name = 'blogPosts/users_all_post.html'\n\tcontext_object_name = 'posts'\n\tpaginate_by = 4\t\n\tdef get_queryset(self):\n\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn blogPost.objects.filter(author=user)\nclass PostDetailView(DetailView):\n\tmodel = blogPost\n\tcontext_object_name = 'post'",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttemplate_name",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\ttemplate_name = 'blogPosts/users_all_post.html'\n\tcontext_object_name = 'posts'\n\tpaginate_by = 4\t\n\tdef get_queryset(self):\n\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn blogPost.objects.filter(author=user)\nclass PostDetailView(DetailView):\n\tmodel = blogPost\n\tcontext_object_name = 'post'\n\ttemplate_name = 'blogPosts/post_detail.html'",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcontext_object_name",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tcontext_object_name = 'posts'\n\tpaginate_by = 4\t\n\tdef get_queryset(self):\n\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn blogPost.objects.filter(author=user)\nclass PostDetailView(DetailView):\n\tmodel = blogPost\n\tcontext_object_name = 'post'\n\ttemplate_name = 'blogPosts/post_detail.html'\nclass PostCreateView(LoginRequiredMixin, CreateView):",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tpaginate_by",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tpaginate_by = 4\t\n\tdef get_queryset(self):\n\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn blogPost.objects.filter(author=user)\nclass PostDetailView(DetailView):\n\tmodel = blogPost\n\tcontext_object_name = 'post'\n\ttemplate_name = 'blogPosts/post_detail.html'\nclass PostCreateView(LoginRequiredMixin, CreateView):\n\tmodel = blogPost",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn blogPost.objects.filter(author=user)\nclass PostDetailView(DetailView):\n\tmodel = blogPost\n\tcontext_object_name = 'post'\n\ttemplate_name = 'blogPosts/post_detail.html'\nclass PostCreateView(LoginRequiredMixin, CreateView):\n\tmodel = blogPost\n\tfields = ['image','title','content']\n\ttemplate_name = 'blogPosts/create_post.html'",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tmodel",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tmodel = blogPost\n\tcontext_object_name = 'post'\n\ttemplate_name = 'blogPosts/post_detail.html'\nclass PostCreateView(LoginRequiredMixin, CreateView):\n\tmodel = blogPost\n\tfields = ['image','title','content']\n\ttemplate_name = 'blogPosts/create_post.html'\n\tdef form_valid(self,form):\n\t\tform.instance.author=self.request.user\n\t\tmessages.info(self.request,\"Your post Created\")",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcontext_object_name",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tcontext_object_name = 'post'\n\ttemplate_name = 'blogPosts/post_detail.html'\nclass PostCreateView(LoginRequiredMixin, CreateView):\n\tmodel = blogPost\n\tfields = ['image','title','content']\n\ttemplate_name = 'blogPosts/create_post.html'\n\tdef form_valid(self,form):\n\t\tform.instance.author=self.request.user\n\t\tmessages.info(self.request,\"Your post Created\")\n\t\treturn super().form_valid(form)",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttemplate_name",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\ttemplate_name = 'blogPosts/post_detail.html'\nclass PostCreateView(LoginRequiredMixin, CreateView):\n\tmodel = blogPost\n\tfields = ['image','title','content']\n\ttemplate_name = 'blogPosts/create_post.html'\n\tdef form_valid(self,form):\n\t\tform.instance.author=self.request.user\n\t\tmessages.info(self.request,\"Your post Created\")\n\t\treturn super().form_valid(form)\nclass PostUpdateView(LoginRequiredMixin,UserPassesTestMixin,",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tmodel",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tmodel = blogPost\n\tfields = ['image','title','content']\n\ttemplate_name = 'blogPosts/create_post.html'\n\tdef form_valid(self,form):\n\t\tform.instance.author=self.request.user\n\t\tmessages.info(self.request,\"Your post Created\")\n\t\treturn super().form_valid(form)\nclass PostUpdateView(LoginRequiredMixin,UserPassesTestMixin,\n\t\t\t\t\t\tSuccessMessageMixin, UpdateView):\n\tmodel = blogPost",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tfields",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tfields = ['image','title','content']\n\ttemplate_name = 'blogPosts/create_post.html'\n\tdef form_valid(self,form):\n\t\tform.instance.author=self.request.user\n\t\tmessages.info(self.request,\"Your post Created\")\n\t\treturn super().form_valid(form)\nclass PostUpdateView(LoginRequiredMixin,UserPassesTestMixin,\n\t\t\t\t\t\tSuccessMessageMixin, UpdateView):\n\tmodel = blogPost\n\tfields = ['image','title','content']",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttemplate_name",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\ttemplate_name = 'blogPosts/create_post.html'\n\tdef form_valid(self,form):\n\t\tform.instance.author=self.request.user\n\t\tmessages.info(self.request,\"Your post Created\")\n\t\treturn super().form_valid(form)\nclass PostUpdateView(LoginRequiredMixin,UserPassesTestMixin,\n\t\t\t\t\t\tSuccessMessageMixin, UpdateView):\n\tmodel = blogPost\n\tfields = ['image','title','content']\n\ttemplate_name = 'blogPosts/create_post.html'",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tmodel",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tmodel = blogPost\n\tfields = ['image','title','content']\n\ttemplate_name = 'blogPosts/create_post.html'\n\tsuccess_message = \"Your post was updated successfully\"\n\tdef test_func(self):\n\t\tpost = self.get_object()\n\t\tif self.request.user == post.author:\n\t\t\treturn True\n\t\treturn False\nclass PostDeleteView(LoginRequiredMixin, UserPassesTestMixin, DeleteView):",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tfields",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tfields = ['image','title','content']\n\ttemplate_name = 'blogPosts/create_post.html'\n\tsuccess_message = \"Your post was updated successfully\"\n\tdef test_func(self):\n\t\tpost = self.get_object()\n\t\tif self.request.user == post.author:\n\t\t\treturn True\n\t\treturn False\nclass PostDeleteView(LoginRequiredMixin, UserPassesTestMixin, DeleteView):\n\tmodel = blogPost",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttemplate_name",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\ttemplate_name = 'blogPosts/create_post.html'\n\tsuccess_message = \"Your post was updated successfully\"\n\tdef test_func(self):\n\t\tpost = self.get_object()\n\t\tif self.request.user == post.author:\n\t\t\treturn True\n\t\treturn False\nclass PostDeleteView(LoginRequiredMixin, UserPassesTestMixin, DeleteView):\n\tmodel = blogPost\n\ttemplate_name = 'blogPosts/post_delete.html'",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tsuccess_message",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tsuccess_message = \"Your post was updated successfully\"\n\tdef test_func(self):\n\t\tpost = self.get_object()\n\t\tif self.request.user == post.author:\n\t\t\treturn True\n\t\treturn False\nclass PostDeleteView(LoginRequiredMixin, UserPassesTestMixin, DeleteView):\n\tmodel = blogPost\n\ttemplate_name = 'blogPosts/post_delete.html'\n\tsuccess_url='/'",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpost",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\t\tpost = self.get_object()\n\t\tif self.request.user == post.author:\n\t\t\treturn True\n\t\treturn False\nclass PostDeleteView(LoginRequiredMixin, UserPassesTestMixin, DeleteView):\n\tmodel = blogPost\n\ttemplate_name = 'blogPosts/post_delete.html'\n\tsuccess_url='/'\n\tdef test_func(self):\n\t\tpost = self.get_object()",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tmodel",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tmodel = blogPost\n\ttemplate_name = 'blogPosts/post_delete.html'\n\tsuccess_url='/'\n\tdef test_func(self):\n\t\tpost = self.get_object()\n\t\tif self.request.user == post.author:\n\t\t\treturn True\n\t\treturn False\ndef homePage(request):\n\tposts = blogPost.objects.all().order_by('-date')",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttemplate_name",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\ttemplate_name = 'blogPosts/post_delete.html'\n\tsuccess_url='/'\n\tdef test_func(self):\n\t\tpost = self.get_object()\n\t\tif self.request.user == post.author:\n\t\t\treturn True\n\t\treturn False\ndef homePage(request):\n\tposts = blogPost.objects.all().order_by('-date')\n\trecent_posts = blogPost.objects.all().order_by('date')[:3]",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpost",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\t\tpost = self.get_object()\n\t\tif self.request.user == post.author:\n\t\t\treturn True\n\t\treturn False\ndef homePage(request):\n\tposts = blogPost.objects.all().order_by('-date')\n\trecent_posts = blogPost.objects.all().order_by('date')[:3]\n\ttotal = User.objects.all().count()\n\ttry:\n\t\trecent_user = User.objects.all()[total-3:]",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tposts",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tposts = blogPost.objects.all().order_by('-date')\n\trecent_posts = blogPost.objects.all().order_by('date')[:3]\n\ttotal = User.objects.all().count()\n\ttry:\n\t\trecent_user = User.objects.all()[total-3:]\n\texcept:\n\t\trecent_user = User.objects.all()\n\tpaginator = Paginator(posts,5)\n\tpage_number = request.GET.get('page')\n\tpage_obj = paginator.get_page(page_number)",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\trecent_posts",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\trecent_posts = blogPost.objects.all().order_by('date')[:3]\n\ttotal = User.objects.all().count()\n\ttry:\n\t\trecent_user = User.objects.all()[total-3:]\n\texcept:\n\t\trecent_user = User.objects.all()\n\tpaginator = Paginator(posts,5)\n\tpage_number = request.GET.get('page')\n\tpage_obj = paginator.get_page(page_number)\n\treturn render(request,'blogPosts/home.html',",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttotal",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\ttotal = User.objects.all().count()\n\ttry:\n\t\trecent_user = User.objects.all()[total-3:]\n\texcept:\n\t\trecent_user = User.objects.all()\n\tpaginator = Paginator(posts,5)\n\tpage_number = request.GET.get('page')\n\tpage_obj = paginator.get_page(page_number)\n\treturn render(request,'blogPosts/home.html',\n\t\t{'recent_posts':recent_posts,",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\trecent_user",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\t\trecent_user = User.objects.all()[total-3:]\n\texcept:\n\t\trecent_user = User.objects.all()\n\tpaginator = Paginator(posts,5)\n\tpage_number = request.GET.get('page')\n\tpage_obj = paginator.get_page(page_number)\n\treturn render(request,'blogPosts/home.html',\n\t\t{'recent_posts':recent_posts,\n\t\t'recent_user':recent_user, 'page_obj':page_obj})",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\trecent_user",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\t\trecent_user = User.objects.all()\n\tpaginator = Paginator(posts,5)\n\tpage_number = request.GET.get('page')\n\tpage_obj = paginator.get_page(page_number)\n\treturn render(request,'blogPosts/home.html',\n\t\t{'recent_posts':recent_posts,\n\t\t'recent_user':recent_user, 'page_obj':page_obj})",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tpaginator",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tpaginator = Paginator(posts,5)\n\tpage_number = request.GET.get('page')\n\tpage_obj = paginator.get_page(page_number)\n\treturn render(request,'blogPosts/home.html',\n\t\t{'recent_posts':recent_posts,\n\t\t'recent_user':recent_user, 'page_obj':page_obj})",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tpage_number",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tpage_number = request.GET.get('page')\n\tpage_obj = paginator.get_page(page_number)\n\treturn render(request,'blogPosts/home.html',\n\t\t{'recent_posts':recent_posts,\n\t\t'recent_user':recent_user, 'page_obj':page_obj})",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tpage_obj",
+        "kind": 5,
+        "importPath": "BlogSite.blogPosts.views",
+        "description": "BlogSite.blogPosts.views",
+        "peekOfCode": "\tpage_obj = paginator.get_page(page_number)\n\treturn render(request,'blogPosts/home.html',\n\t\t{'recent_posts':recent_posts,\n\t\t'recent_user':recent_user, 'page_obj':page_obj})",
+        "detail": "BlogSite.blogPosts.views",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '*=s%$^!=g*g76@-s8op_64_lqg53tno+wfi$_^p0v&owsup@#5'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "SECRET_KEY = '*=s%$^!=g*g76@-s8op_64_lqg53tno+wfi$_^p0v&owsup@#5'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'crispy_forms',",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'crispy_forms',\n    'blogPosts.apps.BlogpostsConfig',\n    'users.apps.UsersConfig',",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'users.middleware.UserMiddleware.AutoLogout',\n]",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "ROOT_URLCONF = 'BlogSite.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR,'templates'),],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR,'templates'),],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'BlogSite.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR,'static')]\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'cdn')",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR,'static')]\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'cdn')\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR,'static')]\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'cdn')\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\nMEDIA_URL = '/media/'",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR,'static')]\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'cdn')\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR,'static')]\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'cdn')\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\nLOGIN_URL = 'users:userLogin'",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR,'static')]\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'cdn')\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\nLOGIN_URL = 'users:userLogin'\nLOGIN_REDIRECT_URL = 'blogPosts:homePage'\n#After 2 min of login ... system will autometically logout you.....if you want to change then you can chang the time here\nAUTO_LOGOUT_DELAY = 2*60",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "STATICFILES_DIRS = [os.path.join(BASE_DIR,'static')]\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'cdn')\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\nLOGIN_URL = 'users:userLogin'\nLOGIN_REDIRECT_URL = 'blogPosts:homePage'\n#After 2 min of login ... system will autometically logout you.....if you want to change then you can chang the time here\nAUTO_LOGOUT_DELAY = 2*60",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'cdn')\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\nLOGIN_URL = 'users:userLogin'\nLOGIN_REDIRECT_URL = 'blogPosts:homePage'\n#After 2 min of login ... system will autometically logout you.....if you want to change then you can chang the time here\nAUTO_LOGOUT_DELAY = 2*60",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR,'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\nLOGIN_URL = 'users:userLogin'\nLOGIN_REDIRECT_URL = 'blogPosts:homePage'\n#After 2 min of login ... system will autometically logout you.....if you want to change then you can chang the time here\nAUTO_LOGOUT_DELAY = 2*60",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\nLOGIN_URL = 'users:userLogin'\nLOGIN_REDIRECT_URL = 'blogPosts:homePage'\n#After 2 min of login ... system will autometically logout you.....if you want to change then you can chang the time here\nAUTO_LOGOUT_DELAY = 2*60",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = 'bootstrap4'\nLOGIN_URL = 'users:userLogin'\nLOGIN_REDIRECT_URL = 'blogPosts:homePage'\n#After 2 min of login ... system will autometically logout you.....if you want to change then you can chang the time here\nAUTO_LOGOUT_DELAY = 2*60",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_URL",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "LOGIN_URL = 'users:userLogin'\nLOGIN_REDIRECT_URL = 'blogPosts:homePage'\n#After 2 min of login ... system will autometically logout you.....if you want to change then you can chang the time here\nAUTO_LOGOUT_DELAY = 2*60",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = 'blogPosts:homePage'\n#After 2 min of login ... system will autometically logout you.....if you want to change then you can chang the time here\nAUTO_LOGOUT_DELAY = 2*60",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTO_LOGOUT_DELAY",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.settings",
+        "description": "BlogSite.BlogSite.settings",
+        "peekOfCode": "AUTO_LOGOUT_DELAY = 2*60",
+        "detail": "BlogSite.BlogSite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.urls",
+        "description": "BlogSite.BlogSite.urls",
+        "peekOfCode": "urlpatterns = [\n\t    path('admin/', admin.site.urls),\n\t    path('',include('blogPosts.urls')),\n\t    path('',include('users.urls')),\n\t    path('password-reset/',auth_views.PasswordResetView.as_view(template_name=\n\t    \t\t\t\t\t\t\t\t'users/password_reset.html'),name='password_reset'),\n\t    path('password-reset/done/',auth_views.PasswordResetDoneView.as_view\n\t    \t\t\t\t\t\t\t\t(template_name='users/password_reset_done.html'),\n\t    \t\t\t\t\t\t\t\tname='password_reset_done'),\n\t    path('password-reset-confirm/<uidb64>/<token>/',auth_views.PasswordResetConfirmView.",
+        "detail": "BlogSite.BlogSite.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "BlogSite.BlogSite.wsgi",
+        "description": "BlogSite.BlogSite.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "BlogSite.BlogSite.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "AutoLogout",
+        "kind": 6,
+        "importPath": "BlogSite.users.middleware.UserMiddleware",
+        "description": "BlogSite.users.middleware.UserMiddleware",
+        "peekOfCode": "class AutoLogout(MiddlewareMixin):\n    def process_request(self, request):\n        if not request.user.is_authenticated:\n            return\n        else:\n            try:\n                last_time = datetime.strptime(json.loads(\n                    request.session['last_hit']), '%Y-%m-%d %H:%M:%S.%f')\n                if (datetime.now() - last_time) > timedelta(0, settings.AUTO_LOGOUT_DELAY, 0):\n                    auth.logout(request)",
+        "detail": "BlogSite.users.middleware.UserMiddleware",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "BlogSite.users.migrations.0001_initial",
+        "description": "BlogSite.users.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Profile',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "BlogSite.users.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "BlogSite.users.migrations.0002_auto_20200516_2111",
+        "description": "BlogSite.users.migrations.0002_auto_20200516_2111",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='profile',\n            name='image',\n            field=models.ImageField(default='demo_profile.jpeg', upload_to='profile_picture/%Y/%m/%d/'),\n        ),",
+        "detail": "BlogSite.users.migrations.0002_auto_20200516_2111",
+        "documentation": {}
+    },
+    {
+        "label": "UsersConfig",
+        "kind": 6,
+        "importPath": "BlogSite.users.apps",
+        "description": "BlogSite.users.apps",
+        "peekOfCode": "class UsersConfig(AppConfig):\n    name = 'users'\n    def ready(self):\n        \timport users.signals",
+        "detail": "BlogSite.users.apps",
+        "documentation": {}
+    },
+    {
+        "label": "customUserCreationForm",
+        "kind": 6,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "class customUserCreationForm(UserCreationForm):\n\tfirst_name = forms.CharField(required=True, max_length=50)\n\tlast_name = forms.CharField(required=True, max_length=50)\n\temail = forms.EmailField(required=True, max_length=50,help_text=\"Required a valid Email Address\")\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ['username','first_name','last_name','email','password1','password2']\n\tdef clean_email(self):\n\t\temail = self.cleaned_data.get('email')\n\t\tif User.objects.filter(email=email).exists():",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateProfileInfo",
+        "kind": 6,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "class UpdateProfileInfo(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, max_length=50)\n\tlast_name = forms.CharField(required=True, max_length=50)\n\temail = forms.EmailField(required=True, max_length=50,help_text=\"Required a valid Email Address\")\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ['username','first_name','last_name','email']\n\tdef clean_email(self):\n\t\temail = self.cleaned_data.get('email')\n\t\tusername = self.cleaned_data.get('username')",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateProfilePicture",
+        "kind": 6,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "class UpdateProfilePicture(forms.ModelForm):\n\tclass Meta:\n\t\tmodel = Profile\n\t\tfields = ['image']",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\tfirst_name",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\tfirst_name = forms.CharField(required=True, max_length=50)\n\tlast_name = forms.CharField(required=True, max_length=50)\n\temail = forms.EmailField(required=True, max_length=50,help_text=\"Required a valid Email Address\")\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ['username','first_name','last_name','email','password1','password2']\n\tdef clean_email(self):\n\t\temail = self.cleaned_data.get('email')\n\t\tif User.objects.filter(email=email).exists():\n\t\t    raise forms.ValidationError(\"Email exists\")",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\tlast_name",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\tlast_name = forms.CharField(required=True, max_length=50)\n\temail = forms.EmailField(required=True, max_length=50,help_text=\"Required a valid Email Address\")\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ['username','first_name','last_name','email','password1','password2']\n\tdef clean_email(self):\n\t\temail = self.cleaned_data.get('email')\n\t\tif User.objects.filter(email=email).exists():\n\t\t    raise forms.ValidationError(\"Email exists\")\n\t\treturn email",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\temail",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\temail = forms.EmailField(required=True, max_length=50,help_text=\"Required a valid Email Address\")\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ['username','first_name','last_name','email','password1','password2']\n\tdef clean_email(self):\n\t\temail = self.cleaned_data.get('email')\n\t\tif User.objects.filter(email=email).exists():\n\t\t    raise forms.ValidationError(\"Email exists\")\n\t\treturn email\n\tdef save(self,commit=True):",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tmodel = User\n\t\tfields = ['username','first_name','last_name','email','password1','password2']\n\tdef clean_email(self):\n\t\temail = self.cleaned_data.get('email')\n\t\tif User.objects.filter(email=email).exists():\n\t\t    raise forms.ValidationError(\"Email exists\")\n\t\treturn email\n\tdef save(self,commit=True):\n\t\tuser = super(customUserCreationForm,self).save(commit=False)\n\t\tuser.first_name = self.cleaned_data['first_name']",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfields",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tfields = ['username','first_name','last_name','email','password1','password2']\n\tdef clean_email(self):\n\t\temail = self.cleaned_data.get('email')\n\t\tif User.objects.filter(email=email).exists():\n\t\t    raise forms.ValidationError(\"Email exists\")\n\t\treturn email\n\tdef save(self,commit=True):\n\t\tuser = super(customUserCreationForm,self).save(commit=False)\n\t\tuser.first_name = self.cleaned_data['first_name']\n\t\tuser.last_name = self.cleaned_data['last_name']",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\temail",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\temail = self.cleaned_data.get('email')\n\t\tif User.objects.filter(email=email).exists():\n\t\t    raise forms.ValidationError(\"Email exists\")\n\t\treturn email\n\tdef save(self,commit=True):\n\t\tuser = super(customUserCreationForm,self).save(commit=False)\n\t\tuser.first_name = self.cleaned_data['first_name']\n\t\tuser.last_name = self.cleaned_data['last_name']\n\t\tuser.email = self.cleaned_data['email']\n\t\tif commit:",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tuser = super(customUserCreationForm,self).save(commit=False)\n\t\tuser.first_name = self.cleaned_data['first_name']\n\t\tuser.last_name = self.cleaned_data['last_name']\n\t\tuser.email = self.cleaned_data['email']\n\t\tif commit:\n\t\t\tuser.save()\n\t\treturn user\nclass UpdateProfileInfo(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, max_length=50)\n\tlast_name = forms.CharField(required=True, max_length=50)",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser.first_name",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tuser.first_name = self.cleaned_data['first_name']\n\t\tuser.last_name = self.cleaned_data['last_name']\n\t\tuser.email = self.cleaned_data['email']\n\t\tif commit:\n\t\t\tuser.save()\n\t\treturn user\nclass UpdateProfileInfo(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, max_length=50)\n\tlast_name = forms.CharField(required=True, max_length=50)\n\temail = forms.EmailField(required=True, max_length=50,help_text=\"Required a valid Email Address\")",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser.last_name",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tuser.last_name = self.cleaned_data['last_name']\n\t\tuser.email = self.cleaned_data['email']\n\t\tif commit:\n\t\t\tuser.save()\n\t\treturn user\nclass UpdateProfileInfo(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, max_length=50)\n\tlast_name = forms.CharField(required=True, max_length=50)\n\temail = forms.EmailField(required=True, max_length=50,help_text=\"Required a valid Email Address\")\n\tclass Meta:",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser.email",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tuser.email = self.cleaned_data['email']\n\t\tif commit:\n\t\t\tuser.save()\n\t\treturn user\nclass UpdateProfileInfo(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, max_length=50)\n\tlast_name = forms.CharField(required=True, max_length=50)\n\temail = forms.EmailField(required=True, max_length=50,help_text=\"Required a valid Email Address\")\n\tclass Meta:\n\t\tmodel = User",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\tfirst_name",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\tfirst_name = forms.CharField(required=True, max_length=50)\n\tlast_name = forms.CharField(required=True, max_length=50)\n\temail = forms.EmailField(required=True, max_length=50,help_text=\"Required a valid Email Address\")\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ['username','first_name','last_name','email']\n\tdef clean_email(self):\n\t\temail = self.cleaned_data.get('email')\n\t\tusername = self.cleaned_data.get('username')\n\t\ttry:",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\tlast_name",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\tlast_name = forms.CharField(required=True, max_length=50)\n\temail = forms.EmailField(required=True, max_length=50,help_text=\"Required a valid Email Address\")\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ['username','first_name','last_name','email']\n\tdef clean_email(self):\n\t\temail = self.cleaned_data.get('email')\n\t\tusername = self.cleaned_data.get('username')\n\t\ttry:\n\t\t\tuser = User.objects.filter(username=username).first()",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\temail",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\temail = forms.EmailField(required=True, max_length=50,help_text=\"Required a valid Email Address\")\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ['username','first_name','last_name','email']\n\tdef clean_email(self):\n\t\temail = self.cleaned_data.get('email')\n\t\tusername = self.cleaned_data.get('username')\n\t\ttry:\n\t\t\tuser = User.objects.filter(username=username).first()\n\t\t\tif User.objects.filter(email=email).exists():",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tmodel = User\n\t\tfields = ['username','first_name','last_name','email']\n\tdef clean_email(self):\n\t\temail = self.cleaned_data.get('email')\n\t\tusername = self.cleaned_data.get('username')\n\t\ttry:\n\t\t\tuser = User.objects.filter(username=username).first()\n\t\t\tif User.objects.filter(email=email).exists():\n\t\t\t\tif user.email != email:\n\t\t\t\t\traise forms.ValidationError(\"Email exists\")",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfields",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tfields = ['username','first_name','last_name','email']\n\tdef clean_email(self):\n\t\temail = self.cleaned_data.get('email')\n\t\tusername = self.cleaned_data.get('username')\n\t\ttry:\n\t\t\tuser = User.objects.filter(username=username).first()\n\t\t\tif User.objects.filter(email=email).exists():\n\t\t\t\tif user.email != email:\n\t\t\t\t\traise forms.ValidationError(\"Email exists\")\n\t\texcept:",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\temail",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\temail = self.cleaned_data.get('email')\n\t\tusername = self.cleaned_data.get('username')\n\t\ttry:\n\t\t\tuser = User.objects.filter(username=username).first()\n\t\t\tif User.objects.filter(email=email).exists():\n\t\t\t\tif user.email != email:\n\t\t\t\t\traise forms.ValidationError(\"Email exists\")\n\t\texcept:\n\t\t\tif User.objects.filter(email=email).exists():\n\t\t\t\traise forms.ValidationError(\"Email exists\")",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tusername",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tusername = self.cleaned_data.get('username')\n\t\ttry:\n\t\t\tuser = User.objects.filter(username=username).first()\n\t\t\tif User.objects.filter(email=email).exists():\n\t\t\t\tif user.email != email:\n\t\t\t\t\traise forms.ValidationError(\"Email exists\")\n\t\texcept:\n\t\t\tif User.objects.filter(email=email).exists():\n\t\t\t\traise forms.ValidationError(\"Email exists\")\n\t\treturn email",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tuser",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\t\tuser = User.objects.filter(username=username).first()\n\t\t\tif User.objects.filter(email=email).exists():\n\t\t\t\tif user.email != email:\n\t\t\t\t\traise forms.ValidationError(\"Email exists\")\n\t\texcept:\n\t\t\tif User.objects.filter(email=email).exists():\n\t\t\t\traise forms.ValidationError(\"Email exists\")\n\t\treturn email\n\tdef save(self,commit=True):\n\t\tuser = super(UpdateProfileInfo,self).save(commit=False)",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tuser = super(UpdateProfileInfo,self).save(commit=False)\n\t\tuser.first_name = self.cleaned_data['first_name']\n\t\tuser.last_name = self.cleaned_data['last_name']\n\t\tuser.email = self.cleaned_data['email']\n\t\tif commit:\n\t\t\tuser.save()\n\t\treturn user\nclass UpdateProfilePicture(forms.ModelForm):\n\tclass Meta:\n\t\tmodel = Profile",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser.first_name",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tuser.first_name = self.cleaned_data['first_name']\n\t\tuser.last_name = self.cleaned_data['last_name']\n\t\tuser.email = self.cleaned_data['email']\n\t\tif commit:\n\t\t\tuser.save()\n\t\treturn user\nclass UpdateProfilePicture(forms.ModelForm):\n\tclass Meta:\n\t\tmodel = Profile\n\t\tfields = ['image']",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser.last_name",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tuser.last_name = self.cleaned_data['last_name']\n\t\tuser.email = self.cleaned_data['email']\n\t\tif commit:\n\t\t\tuser.save()\n\t\treturn user\nclass UpdateProfilePicture(forms.ModelForm):\n\tclass Meta:\n\t\tmodel = Profile\n\t\tfields = ['image']",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser.email",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tuser.email = self.cleaned_data['email']\n\t\tif commit:\n\t\t\tuser.save()\n\t\treturn user\nclass UpdateProfilePicture(forms.ModelForm):\n\tclass Meta:\n\t\tmodel = Profile\n\t\tfields = ['image']",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tmodel = Profile\n\t\tfields = ['image']",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfields",
+        "kind": 5,
+        "importPath": "BlogSite.users.customForms",
+        "description": "BlogSite.users.customForms",
+        "peekOfCode": "\t\tfields = ['image']",
+        "detail": "BlogSite.users.customForms",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "kind": 6,
+        "importPath": "BlogSite.users.models",
+        "description": "BlogSite.users.models",
+        "peekOfCode": "class Profile(models.Model):\n\tuser = models.OneToOneField(User,on_delete=models.CASCADE)\n\timage = models.ImageField(default='demo_profile.jpeg',upload_to=f'profile_picture/%Y/%m/%d/')\n\tclass Meta:\n\t    verbose_name_plural = \"User Profiles\"\n\tdef __str__(self):\n\t\treturn f\"{self.user.username} profile\"\n\tdef save(self,*args,**kwargs):\n\t\tsuper(Profile,self).save(*args,**kwargs)\n\t\tif self.pk != None and self.image:",
+        "detail": "BlogSite.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tuser",
+        "kind": 5,
+        "importPath": "BlogSite.users.models",
+        "description": "BlogSite.users.models",
+        "peekOfCode": "\tuser = models.OneToOneField(User,on_delete=models.CASCADE)\n\timage = models.ImageField(default='demo_profile.jpeg',upload_to=f'profile_picture/%Y/%m/%d/')\n\tclass Meta:\n\t    verbose_name_plural = \"User Profiles\"\n\tdef __str__(self):\n\t\treturn f\"{self.user.username} profile\"\n\tdef save(self,*args,**kwargs):\n\t\tsuper(Profile,self).save(*args,**kwargs)\n\t\tif self.pk != None and self.image:\n\t\t\timg = Image.open(self.image.path)",
+        "detail": "BlogSite.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\timage",
+        "kind": 5,
+        "importPath": "BlogSite.users.models",
+        "description": "BlogSite.users.models",
+        "peekOfCode": "\timage = models.ImageField(default='demo_profile.jpeg',upload_to=f'profile_picture/%Y/%m/%d/')\n\tclass Meta:\n\t    verbose_name_plural = \"User Profiles\"\n\tdef __str__(self):\n\t\treturn f\"{self.user.username} profile\"\n\tdef save(self,*args,**kwargs):\n\t\tsuper(Profile,self).save(*args,**kwargs)\n\t\tif self.pk != None and self.image:\n\t\t\timg = Image.open(self.image.path)\n\t\t\tif img.height > 300 or img.width >300:",
+        "detail": "BlogSite.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\timg",
+        "kind": 5,
+        "importPath": "BlogSite.users.models",
+        "description": "BlogSite.users.models",
+        "peekOfCode": "\t\t\timg = Image.open(self.image.path)\n\t\t\tif img.height > 300 or img.width >300:\n\t\t\t\toutput_size = (300,300)\n\t\t\t\timg.thumbnail(output_size)\n\t\t\t\timg.save(self.image.path)",
+        "detail": "BlogSite.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\toutput_size",
+        "kind": 5,
+        "importPath": "BlogSite.users.models",
+        "description": "BlogSite.users.models",
+        "peekOfCode": "\t\t\t\toutput_size = (300,300)\n\t\t\t\timg.thumbnail(output_size)\n\t\t\t\timg.save(self.image.path)",
+        "detail": "BlogSite.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_profile",
+        "kind": 2,
+        "importPath": "BlogSite.users.signals",
+        "description": "BlogSite.users.signals",
+        "peekOfCode": "def create_profile(sender, instance, created, *args,**kwargs):\n\tif created:\n\t\tProfile.objects.create(user=instance)\n@receiver(post_save,sender=User)\ndef save_profile(sender, instance, *args, **kwargs):\n\tinstance.profile.save()",
+        "detail": "BlogSite.users.signals",
+        "documentation": {}
+    },
+    {
+        "label": "save_profile",
+        "kind": 2,
+        "importPath": "BlogSite.users.signals",
+        "description": "BlogSite.users.signals",
+        "peekOfCode": "def save_profile(sender, instance, *args, **kwargs):\n\tinstance.profile.save()",
+        "detail": "BlogSite.users.signals",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "BlogSite.users.urls",
+        "description": "BlogSite.users.urls",
+        "peekOfCode": "app_name = \"users\"\nurlpatterns=[\n\tpath('login/', views.login_page, name='userLogin'),\n\tpath('logout/',views.userLogout,name='userLogout'),\n\tpath('signup/',views.userSignup,name='userSignup'),\n\tpath('profile/',views.userProfile,name='userProfile'),\n\tpath('profiles/<str:username>',UserPublicProfile.as_view(),\n\t\t\t\t\t\t\t\t\tname='userPublicProfile'),\n\tpath('profile/update/',views.userProfileUpdate,name='userProfileUpdate'),\n]",
+        "detail": "BlogSite.users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserPublicProfile",
+        "kind": 6,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "class UserPublicProfile(ListView):\n\tmodel = User\n\ttemplate_name = 'users/user_public_profile.html'\n\tcontext_object_name = 'user'\n\tdef get_queryset(self):\n\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn User.objects.filter(username=user).first()",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "login_page",
+        "kind": 2,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "def login_page(request):\n\tif request.method == \"POST\":\n\t\tform = AuthenticationForm(request,request.POST)\n\t\tif form.is_valid():\n\t\t\tusername = form.cleaned_data.get(\"username\")\n\t\t\tpassword = form.cleaned_data.get(\"password\")\n\t\t\tuser = authenticate(username=username,password=password)\n\t\t\tif user is not None:\n\t\t\t\tlogin(request,user)\n\t\t\t\trequest.session['last_hit'] = json.dumps(datetime.strftime(",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "userLogout",
+        "kind": 2,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "def userLogout(request):\n\tif request.user.is_authenticated:\n\t\tlogout(request)\n\t\tmessages.info(request,\"Logout Successfully\")\n\t\treturn render(request,'users/logout.html')\n\telse:\n\t\tmessages.info(request,'Please Login First')\n\t\treturn redirect('blogPosts:homePage')\ndef userSignup(request):\n\tif request.user.is_authenticated:",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "userSignup",
+        "kind": 2,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "def userSignup(request):\n\tif request.user.is_authenticated:\n\t\tmessages.info(request,\"Already Registred\")\n\t\treturn redirect('blogPosts:homePage')\n\telse:\n\t\tif request.method ==\"POST\":\n\t\t\tform = customUserCreationForm(request.POST)\n\t\t\tif form.is_valid():\n\t\t\t\tuser = form.save()\n\t\t\t\tmessages.info(request,\"Account Created\")",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "userProfile",
+        "kind": 2,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "def userProfile(request):\n\tif request.user.is_authenticated:\n\t\treturn render(request,'users/profile.html',{'user':request.user})\n\treturn render(request,'blogPosts/home.html')\n@login_required\ndef userProfileUpdate(request):\n\tif request.method == \"POST\":\n\t\tp_form = UpdateProfilePicture(request.POST,request.FILES, instance = request.user.profile)\n\t\tu_form = UpdateProfileInfo(request.POST, instance = request.user)\n\t\tif p_form.is_valid() and u_form.is_valid():",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "userProfileUpdate",
+        "kind": 2,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "def userProfileUpdate(request):\n\tif request.method == \"POST\":\n\t\tp_form = UpdateProfilePicture(request.POST,request.FILES, instance = request.user.profile)\n\t\tu_form = UpdateProfileInfo(request.POST, instance = request.user)\n\t\tif p_form.is_valid() and u_form.is_valid():\n\t\t\tp_form.save()\n\t\t\tu_form.save()\n\t\t\tmessages.info(request,\"Successfully profile updated\")\n\t\t\treturn redirect(\"users:userProfile\")\n\telse:",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\tform = AuthenticationForm(request,request.POST)\n\t\tif form.is_valid():\n\t\t\tusername = form.cleaned_data.get(\"username\")\n\t\t\tpassword = form.cleaned_data.get(\"password\")\n\t\t\tuser = authenticate(username=username,password=password)\n\t\t\tif user is not None:\n\t\t\t\tlogin(request,user)\n\t\t\t\trequest.session['last_hit'] = json.dumps(datetime.strftime(\n                                        datetime.now(), '%Y-%m-%d %H:%M:%S.%f'))\n\t\t\t\tmessages.success(request,f\"{username} logged in Successfully\")",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tusername",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\t\tusername = form.cleaned_data.get(\"username\")\n\t\t\tpassword = form.cleaned_data.get(\"password\")\n\t\t\tuser = authenticate(username=username,password=password)\n\t\t\tif user is not None:\n\t\t\t\tlogin(request,user)\n\t\t\t\trequest.session['last_hit'] = json.dumps(datetime.strftime(\n                                        datetime.now(), '%Y-%m-%d %H:%M:%S.%f'))\n\t\t\t\tmessages.success(request,f\"{username} logged in Successfully\")\n\t\t\t\treturn redirect(\"users:userProfile\")\n\t\t\telse:\t",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tpassword",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\t\tpassword = form.cleaned_data.get(\"password\")\n\t\t\tuser = authenticate(username=username,password=password)\n\t\t\tif user is not None:\n\t\t\t\tlogin(request,user)\n\t\t\t\trequest.session['last_hit'] = json.dumps(datetime.strftime(\n                                        datetime.now(), '%Y-%m-%d %H:%M:%S.%f'))\n\t\t\t\tmessages.success(request,f\"{username} logged in Successfully\")\n\t\t\t\treturn redirect(\"users:userProfile\")\n\t\t\telse:\t\n\t\t\t\tmessages.error(request,\"Invalid UserName or Password\")",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tuser",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\t\tuser = authenticate(username=username,password=password)\n\t\t\tif user is not None:\n\t\t\t\tlogin(request,user)\n\t\t\t\trequest.session['last_hit'] = json.dumps(datetime.strftime(\n                                        datetime.now(), '%Y-%m-%d %H:%M:%S.%f'))\n\t\t\t\tmessages.success(request,f\"{username} logged in Successfully\")\n\t\t\t\treturn redirect(\"users:userProfile\")\n\t\t\telse:\t\n\t\t\t\tmessages.error(request,\"Invalid UserName or Password\")\n\t\telse:",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\trequest.session['last_hit']",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\t\t\trequest.session['last_hit'] = json.dumps(datetime.strftime(\n                                        datetime.now(), '%Y-%m-%d %H:%M:%S.%f'))\n\t\t\t\tmessages.success(request,f\"{username} logged in Successfully\")\n\t\t\t\treturn redirect(\"users:userProfile\")\n\t\t\telse:\t\n\t\t\t\tmessages.error(request,\"Invalid UserName or Password\")\n\t\telse:\n\t\t\tmessages.error(request,\"Invalid UserName or Password\")\n\tform = AuthenticationForm\n\treturn render(request=request,",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tform",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\tform = AuthenticationForm\n\treturn render(request=request,\n\t\t\t\t\ttemplate_name='users/login.html',\n\t\t\t\t\tcontext={'form':form})\ndef userLogout(request):\n\tif request.user.is_authenticated:\n\t\tlogout(request)\n\t\tmessages.info(request,\"Logout Successfully\")\n\t\treturn render(request,'users/logout.html')\n\telse:",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tform",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\t\tform = customUserCreationForm(request.POST)\n\t\t\tif form.is_valid():\n\t\t\t\tuser = form.save()\n\t\t\t\tmessages.info(request,\"Account Created\")\n\t\t\t\tlogin(request,user)\n\t\t\t\tmessages.info(request,\"Successfully Logged in\")\n\t\t\t\treturn redirect(\"blogPosts:homePage\")\n\t\telse:\n\t\t\tform = customUserCreationForm\n\t\treturn render(request,'users/signup.html',{'form':form})",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tuser",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\t\t\tuser = form.save()\n\t\t\t\tmessages.info(request,\"Account Created\")\n\t\t\t\tlogin(request,user)\n\t\t\t\tmessages.info(request,\"Successfully Logged in\")\n\t\t\t\treturn redirect(\"blogPosts:homePage\")\n\t\telse:\n\t\t\tform = customUserCreationForm\n\t\treturn render(request,'users/signup.html',{'form':form})\n@login_required\ndef userProfile(request):",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tform",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\t\tform = customUserCreationForm\n\t\treturn render(request,'users/signup.html',{'form':form})\n@login_required\ndef userProfile(request):\n\tif request.user.is_authenticated:\n\t\treturn render(request,'users/profile.html',{'user':request.user})\n\treturn render(request,'blogPosts/home.html')\n@login_required\ndef userProfileUpdate(request):\n\tif request.method == \"POST\":",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tp_form",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\tp_form = UpdateProfilePicture(request.POST,request.FILES, instance = request.user.profile)\n\t\tu_form = UpdateProfileInfo(request.POST, instance = request.user)\n\t\tif p_form.is_valid() and u_form.is_valid():\n\t\t\tp_form.save()\n\t\t\tu_form.save()\n\t\t\tmessages.info(request,\"Successfully profile updated\")\n\t\t\treturn redirect(\"users:userProfile\")\n\telse:\n\t\tp_form = UpdateProfilePicture(instance = request.user)\n\t\tu_form = UpdateProfileInfo(instance = request.user)",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tu_form",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\tu_form = UpdateProfileInfo(request.POST, instance = request.user)\n\t\tif p_form.is_valid() and u_form.is_valid():\n\t\t\tp_form.save()\n\t\t\tu_form.save()\n\t\t\tmessages.info(request,\"Successfully profile updated\")\n\t\t\treturn redirect(\"users:userProfile\")\n\telse:\n\t\tp_form = UpdateProfilePicture(instance = request.user)\n\t\tu_form = UpdateProfileInfo(instance = request.user)\n\treturn render(request,\"users/profileUpdate.html\",{\"p_form\":p_form,\"u_form\":u_form})",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tp_form",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\tp_form = UpdateProfilePicture(instance = request.user)\n\t\tu_form = UpdateProfileInfo(instance = request.user)\n\treturn render(request,\"users/profileUpdate.html\",{\"p_form\":p_form,\"u_form\":u_form})\nclass UserPublicProfile(ListView):\n\tmodel = User\n\ttemplate_name = 'users/user_public_profile.html'\n\tcontext_object_name = 'user'\n\tdef get_queryset(self):\n\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn User.objects.filter(username=user).first()",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tu_form",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\tu_form = UpdateProfileInfo(instance = request.user)\n\treturn render(request,\"users/profileUpdate.html\",{\"p_form\":p_form,\"u_form\":u_form})\nclass UserPublicProfile(ListView):\n\tmodel = User\n\ttemplate_name = 'users/user_public_profile.html'\n\tcontext_object_name = 'user'\n\tdef get_queryset(self):\n\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn User.objects.filter(username=user).first()",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tmodel",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\tmodel = User\n\ttemplate_name = 'users/user_public_profile.html'\n\tcontext_object_name = 'user'\n\tdef get_queryset(self):\n\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn User.objects.filter(username=user).first()",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttemplate_name",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\ttemplate_name = 'users/user_public_profile.html'\n\tcontext_object_name = 'user'\n\tdef get_queryset(self):\n\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn User.objects.filter(username=user).first()",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcontext_object_name",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\tcontext_object_name = 'user'\n\tdef get_queryset(self):\n\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn User.objects.filter(username=user).first()",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser",
+        "kind": 5,
+        "importPath": "BlogSite.users.views",
+        "description": "BlogSite.users.views",
+        "peekOfCode": "\t\tuser = get_object_or_404(User, username=self.kwargs.get('username'))\n\t\treturn User.objects.filter(username=user).first()",
+        "detail": "BlogSite.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "BlogSite.manage",
+        "description": "BlogSite.manage",
+        "peekOfCode": "def main():\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'BlogSite.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n        ) from exc",
+        "detail": "BlogSite.manage",
+        "documentation": {}
+    }
+]

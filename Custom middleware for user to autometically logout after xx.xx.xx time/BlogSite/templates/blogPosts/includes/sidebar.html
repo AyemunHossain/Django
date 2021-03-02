@@ -1,0 +1,43 @@
+<div class="content-section">
+    <h3>Welcome To Adovil.com</h3>
+    <ul class="list-group">
+      <li class="list-group-item list-group-item-light">
+
+        <h5><u> People You May Interested In </u></h5>
+        
+        {% for user in recent_user %}
+          {% if request.user.username != user.username%}
+            <span>
+              <p>
+               <a href="{% url 'blogPosts:userPostsPage' user.username %}"><img class="rounded-circle article-img" src="{{ user.profile.image.url }}"></a>
+                <a href="{% url 'blogPosts:userPostsPage' user.username %}">{{user.username}}</a>
+              </p>
+            </span>
+          {% endif %}
+        {% endfor %}
+
+      </li>
+      <li class="list-group-item list-group-item-light">
+
+      	<h5><u> Recent Posts </u></h5>
+        {% for post in recent_posts %}
+          <span>
+            <p>
+              <a href="{% url 'blogPosts:postDetail' post.id %}">{{ post.title }}</a>
+            </p>
+          </span>
+        {% endfor %}
+
+
+      </li>
+      <li class="list-group-item list-group-item-light">
+
+
+      </li>
+    </ul>
+
+</div>
+      
+
+
+

@@ -1,0 +1,945 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileFeedItem",
+        "importPath": "userprofile.models",
+        "description": "userprofile.models",
+        "isExtraImport": true,
+        "detail": "userprofile.models",
+        "documentation": {}
+    },
+    {
+        "label": "Account",
+        "importPath": "userprofile.models",
+        "description": "userprofile.models",
+        "isExtraImport": true,
+        "detail": "userprofile.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "userprofile",
+        "description": "userprofile",
+        "isExtraImport": true,
+        "detail": "userprofile",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "userprofile",
+        "description": "userprofile",
+        "isExtraImport": true,
+        "detail": "userprofile",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "userprofile",
+        "description": "userprofile",
+        "isExtraImport": true,
+        "detail": "userprofile",
+        "documentation": {}
+    },
+    {
+        "label": "permission",
+        "importPath": "userprofile",
+        "description": "userprofile",
+        "isExtraImport": true,
+        "detail": "userprofile",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "TokenAuthentication",
+        "importPath": "rest_framework.authentication",
+        "description": "rest_framework.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "ObtainAuthToken",
+        "importPath": "rest_framework.authtoken.views",
+        "description": "rest_framework.authtoken.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.views",
+        "documentation": {}
+    },
+    {
+        "label": "api_settings",
+        "importPath": "rest_framework.settings",
+        "description": "rest_framework.settings",
+        "isExtraImport": true,
+        "detail": "rest_framework.settings",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "profileApi.asgi",
+        "description": "profileApi.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "profileApi.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'x$5fqey+ksb^#ms86ui@mqq&8=y_ww63xqsu+=)o-1%4xugu0g'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "SECRET_KEY = 'x$5fqey+ksb^#ms86ui@mqq&8=y_ww63xqsu+=)o-1%4xugu0g'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'userprofile.apps.UserprofileConfig',\n    'rest_framework.authtoken',",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'profileApi.urls'",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "ROOT_URLCONF = 'profileApi.urls'\nAUTH_USER_MODEL = \"userprofile.Account\"\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "AUTH_USER_MODEL = \"userprofile.Account\"\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'profileApi.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "profileApi.settings",
+        "description": "profileApi.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "profileApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "profileApi.urls",
+        "description": "profileApi.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include('userprofile.urls')),\n]",
+        "detail": "profileApi.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "profileApi.wsgi",
+        "description": "profileApi.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "profileApi.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "userprofile.migrations.0001_initial",
+        "description": "userprofile.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Account',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('password', models.CharField(max_length=128, verbose_name='password')),",
+        "detail": "userprofile.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "userprofile.migrations.0002_profilefeeditem",
+        "description": "userprofile.migrations.0002_profilefeeditem",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('userprofile', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ProfileFeedItem',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('status_text', models.CharField(max_length=255)),",
+        "detail": "userprofile.migrations.0002_profilefeeditem",
+        "documentation": {}
+    },
+    {
+        "label": "AccountAdmin",
+        "kind": 6,
+        "importPath": "userprofile.admin",
+        "description": "userprofile.admin",
+        "peekOfCode": "class AccountAdmin(UserAdmin):\n\tlist_display = ('email','username','date_joined','last_login','is_admin','is_active','is_staff')\n\tsearch_fields = ['email','username',]\n\treadonly_fields = ('date_joined','last_login')\n\tlist_display_links = ('email','username',)\n\tfilter_horizontal = ()\n\tlist_filter = ('is_admin','is_staff','is_active')\n\tfieldsets =(\n\t\t\t(\"User Details\",{'fields':('username','email')}),\n\t\t\t(\"Account Details\",{'fields':('date_joined','last_login')}),",
+        "detail": "userprofile.admin",
+        "documentation": {}
+    },
+    {
+        "label": "\tlist_display",
+        "kind": 5,
+        "importPath": "userprofile.admin",
+        "description": "userprofile.admin",
+        "peekOfCode": "\tlist_display = ('email','username','date_joined','last_login','is_admin','is_active','is_staff')\n\tsearch_fields = ['email','username',]\n\treadonly_fields = ('date_joined','last_login')\n\tlist_display_links = ('email','username',)\n\tfilter_horizontal = ()\n\tlist_filter = ('is_admin','is_staff','is_active')\n\tfieldsets =(\n\t\t\t(\"User Details\",{'fields':('username','email')}),\n\t\t\t(\"Account Details\",{'fields':('date_joined','last_login')}),\n\t\t\t(\"Permission\",{'fields':('is_active','is_staff','is_admin')}),",
+        "detail": "userprofile.admin",
+        "documentation": {}
+    },
+    {
+        "label": "\tsearch_fields",
+        "kind": 5,
+        "importPath": "userprofile.admin",
+        "description": "userprofile.admin",
+        "peekOfCode": "\tsearch_fields = ['email','username',]\n\treadonly_fields = ('date_joined','last_login')\n\tlist_display_links = ('email','username',)\n\tfilter_horizontal = ()\n\tlist_filter = ('is_admin','is_staff','is_active')\n\tfieldsets =(\n\t\t\t(\"User Details\",{'fields':('username','email')}),\n\t\t\t(\"Account Details\",{'fields':('date_joined','last_login')}),\n\t\t\t(\"Permission\",{'fields':('is_active','is_staff','is_admin')}),\n\t\t)",
+        "detail": "userprofile.admin",
+        "documentation": {}
+    },
+    {
+        "label": "\treadonly_fields",
+        "kind": 5,
+        "importPath": "userprofile.admin",
+        "description": "userprofile.admin",
+        "peekOfCode": "\treadonly_fields = ('date_joined','last_login')\n\tlist_display_links = ('email','username',)\n\tfilter_horizontal = ()\n\tlist_filter = ('is_admin','is_staff','is_active')\n\tfieldsets =(\n\t\t\t(\"User Details\",{'fields':('username','email')}),\n\t\t\t(\"Account Details\",{'fields':('date_joined','last_login')}),\n\t\t\t(\"Permission\",{'fields':('is_active','is_staff','is_admin')}),\n\t\t)\n\tadd_fieldsets=(",
+        "detail": "userprofile.admin",
+        "documentation": {}
+    },
+    {
+        "label": "\tlist_display_links",
+        "kind": 5,
+        "importPath": "userprofile.admin",
+        "description": "userprofile.admin",
+        "peekOfCode": "\tlist_display_links = ('email','username',)\n\tfilter_horizontal = ()\n\tlist_filter = ('is_admin','is_staff','is_active')\n\tfieldsets =(\n\t\t\t(\"User Details\",{'fields':('username','email')}),\n\t\t\t(\"Account Details\",{'fields':('date_joined','last_login')}),\n\t\t\t(\"Permission\",{'fields':('is_active','is_staff','is_admin')}),\n\t\t)\n\tadd_fieldsets=(\n\t\t\t(\"User Details\",{'fields':('username','email','password1','password2')}),",
+        "detail": "userprofile.admin",
+        "documentation": {}
+    },
+    {
+        "label": "\tfilter_horizontal",
+        "kind": 5,
+        "importPath": "userprofile.admin",
+        "description": "userprofile.admin",
+        "peekOfCode": "\tfilter_horizontal = ()\n\tlist_filter = ('is_admin','is_staff','is_active')\n\tfieldsets =(\n\t\t\t(\"User Details\",{'fields':('username','email')}),\n\t\t\t(\"Account Details\",{'fields':('date_joined','last_login')}),\n\t\t\t(\"Permission\",{'fields':('is_active','is_staff','is_admin')}),\n\t\t)\n\tadd_fieldsets=(\n\t\t\t(\"User Details\",{'fields':('username','email','password1','password2')}),\n\t\t\t(\"Permission\",{'fields':('is_active','is_staff','is_admin')}),",
+        "detail": "userprofile.admin",
+        "documentation": {}
+    },
+    {
+        "label": "\tlist_filter",
+        "kind": 5,
+        "importPath": "userprofile.admin",
+        "description": "userprofile.admin",
+        "peekOfCode": "\tlist_filter = ('is_admin','is_staff','is_active')\n\tfieldsets =(\n\t\t\t(\"User Details\",{'fields':('username','email')}),\n\t\t\t(\"Account Details\",{'fields':('date_joined','last_login')}),\n\t\t\t(\"Permission\",{'fields':('is_active','is_staff','is_admin')}),\n\t\t)\n\tadd_fieldsets=(\n\t\t\t(\"User Details\",{'fields':('username','email','password1','password2')}),\n\t\t\t(\"Permission\",{'fields':('is_active','is_staff','is_admin')}),\n\t\t)",
+        "detail": "userprofile.admin",
+        "documentation": {}
+    },
+    {
+        "label": "UserprofileConfig",
+        "kind": 6,
+        "importPath": "userprofile.apps",
+        "description": "userprofile.apps",
+        "peekOfCode": "class UserprofileConfig(AppConfig):\n    name = 'userprofile'",
+        "detail": "userprofile.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserManager",
+        "kind": 6,
+        "importPath": "userprofile.models",
+        "description": "userprofile.models",
+        "peekOfCode": "class UserManager(BaseUserManager):  \n    def create_user(self, username,email,first_name= None,last_name= None,password= None):\n        if not email:\n            raise  ValueError(\"User must have email\")\n        if not username:\n            raise  ValueError(\"User must have username\")\n        user_obj = self.model(  \n                    email = self.normalize_email(email),\n                    username = username,\n                    first_name = first_name,",
+        "detail": "userprofile.models",
+        "documentation": {}
+    },
+    {
+        "label": "Account",
+        "kind": 6,
+        "importPath": "userprofile.models",
+        "description": "userprofile.models",
+        "peekOfCode": "class Account(AbstractBaseUser):\n    email \t\t= models.EmailField(verbose_name='email', unique=True, max_length=60)\n    username \t= models.CharField(max_length=30, unique=True)\n    first_name\t= models.CharField(max_length=50, blank=True, null=True)\n    last_name\t= models.CharField(max_length=50, blank=True, null=True)\n    date_joined = models.DateTimeField(verbose_name='date joined', auto_now_add=True)\n    last_login \t= models.DateTimeField(verbose_name='last login', auto_now=True)\n    is_admin    = models.BooleanField(default=False)\n    is_active \t= models.BooleanField(default=True)\n    is_staff \t= models.BooleanField(default=False) ",
+        "detail": "userprofile.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileFeedItem",
+        "kind": 6,
+        "importPath": "userprofile.models",
+        "description": "userprofile.models",
+        "peekOfCode": "class ProfileFeedItem(models.Model):\n    user_profile = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete = models.CASCADE)\n    status_text = models.CharField(max_length= 255)\n    created = models.DateTimeField(auto_now_add = True)\n    def __str__(self):\n        return self.status_text",
+        "detail": "userprofile.models",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateOwnProfile",
+        "kind": 6,
+        "importPath": "userprofile.permission",
+        "description": "userprofile.permission",
+        "peekOfCode": "class UpdateOwnProfile(permissions.BasePermission):\n\tdef has_object_permission(self, request, view, obj):\n\t\tif request.method in permissions.SAFE_METHODS:\n\t\t\treturn True\n\t\treturn obj.id == request.user.id\nclass UpdateProfileFeed(permissions.BasePermission):\n\tdef has_object_permission(self, request, view, obj):\n\t\tif request.method in permissions.SAFE_METHODS:\n\t\t\treturn True\n\t\treturn obj.user_profile.id == request.user.id",
+        "detail": "userprofile.permission",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateProfileFeed",
+        "kind": 6,
+        "importPath": "userprofile.permission",
+        "description": "userprofile.permission",
+        "peekOfCode": "class UpdateProfileFeed(permissions.BasePermission):\n\tdef has_object_permission(self, request, view, obj):\n\t\tif request.method in permissions.SAFE_METHODS:\n\t\t\treturn True\n\t\treturn obj.user_profile.id == request.user.id",
+        "detail": "userprofile.permission",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileSerializers",
+        "kind": 6,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "class ProfileSerializers(serializers.ModelSerializer):\n\tclass Meta:\n\t\tmodel = Account\n\t\tfields = (\"id\",\"email\",\"username\",\"first_name\",\"last_name\",\"password\")\n\t\textra_kwargs = {\n\t\t\t'password':{\n\t\t\t\t'write_only': True,\n\t\t\t\t'style': {'input_type':'password'}\n\t\t\t}\n\t\t}",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileFeedItemSerializer",
+        "kind": 6,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "class ProfileFeedItemSerializer(serializers.ModelSerializer):\n\tclass Meta:\n\t\tmodel = ProfileFeedItem\n\t\tfields = ('id','user_profile','status_text','created')\n\t\textra_kwargs = {'user_profile':{'read_only':True}}",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "\t\tmodel = Account\n\t\tfields = (\"id\",\"email\",\"username\",\"first_name\",\"last_name\",\"password\")\n\t\textra_kwargs = {\n\t\t\t'password':{\n\t\t\t\t'write_only': True,\n\t\t\t\t'style': {'input_type':'password'}\n\t\t\t}\n\t\t}\n\tdef create(self, validate_data):\n\t\tuser = Account.objects.create_user(",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfields",
+        "kind": 5,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "\t\tfields = (\"id\",\"email\",\"username\",\"first_name\",\"last_name\",\"password\")\n\t\textra_kwargs = {\n\t\t\t'password':{\n\t\t\t\t'write_only': True,\n\t\t\t\t'style': {'input_type':'password'}\n\t\t\t}\n\t\t}\n\tdef create(self, validate_data):\n\t\tuser = Account.objects.create_user(\n\t\t\t\temail = validate_data['email'],",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\t\textra_kwargs",
+        "kind": 5,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "\t\textra_kwargs = {\n\t\t\t'password':{\n\t\t\t\t'write_only': True,\n\t\t\t\t'style': {'input_type':'password'}\n\t\t\t}\n\t\t}\n\tdef create(self, validate_data):\n\t\tuser = Account.objects.create_user(\n\t\t\t\temail = validate_data['email'],\n\t\t\t\tusername = validate_data['username'],",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser",
+        "kind": 5,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "\t\tuser = Account.objects.create_user(\n\t\t\t\temail = validate_data['email'],\n\t\t\t\tusername = validate_data['username'],\n\t\t\t\tfirst_name = validate_data['first_name'],\n\t\t\t\tlast_name = validate_data['last_name'],\n\t\t\t\tpassword = validate_data['password'],\n\t\t\t)\n\t\treturn user\nclass ProfileFeedItemSerializer(serializers.ModelSerializer):\n\tclass Meta:",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\temail",
+        "kind": 5,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "\t\t\t\temail = validate_data['email'],\n\t\t\t\tusername = validate_data['username'],\n\t\t\t\tfirst_name = validate_data['first_name'],\n\t\t\t\tlast_name = validate_data['last_name'],\n\t\t\t\tpassword = validate_data['password'],\n\t\t\t)\n\t\treturn user\nclass ProfileFeedItemSerializer(serializers.ModelSerializer):\n\tclass Meta:\n\t\tmodel = ProfileFeedItem",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tusername",
+        "kind": 5,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "\t\t\t\tusername = validate_data['username'],\n\t\t\t\tfirst_name = validate_data['first_name'],\n\t\t\t\tlast_name = validate_data['last_name'],\n\t\t\t\tpassword = validate_data['password'],\n\t\t\t)\n\t\treturn user\nclass ProfileFeedItemSerializer(serializers.ModelSerializer):\n\tclass Meta:\n\t\tmodel = ProfileFeedItem\n\t\tfields = ('id','user_profile','status_text','created')",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tfirst_name",
+        "kind": 5,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "\t\t\t\tfirst_name = validate_data['first_name'],\n\t\t\t\tlast_name = validate_data['last_name'],\n\t\t\t\tpassword = validate_data['password'],\n\t\t\t)\n\t\treturn user\nclass ProfileFeedItemSerializer(serializers.ModelSerializer):\n\tclass Meta:\n\t\tmodel = ProfileFeedItem\n\t\tfields = ('id','user_profile','status_text','created')\n\t\textra_kwargs = {'user_profile':{'read_only':True}}",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tlast_name",
+        "kind": 5,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "\t\t\t\tlast_name = validate_data['last_name'],\n\t\t\t\tpassword = validate_data['password'],\n\t\t\t)\n\t\treturn user\nclass ProfileFeedItemSerializer(serializers.ModelSerializer):\n\tclass Meta:\n\t\tmodel = ProfileFeedItem\n\t\tfields = ('id','user_profile','status_text','created')\n\t\textra_kwargs = {'user_profile':{'read_only':True}}",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tpassword",
+        "kind": 5,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "\t\t\t\tpassword = validate_data['password'],\n\t\t\t)\n\t\treturn user\nclass ProfileFeedItemSerializer(serializers.ModelSerializer):\n\tclass Meta:\n\t\tmodel = ProfileFeedItem\n\t\tfields = ('id','user_profile','status_text','created')\n\t\textra_kwargs = {'user_profile':{'read_only':True}}",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "\t\tmodel = ProfileFeedItem\n\t\tfields = ('id','user_profile','status_text','created')\n\t\textra_kwargs = {'user_profile':{'read_only':True}}",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfields",
+        "kind": 5,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "\t\tfields = ('id','user_profile','status_text','created')\n\t\textra_kwargs = {'user_profile':{'read_only':True}}",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\t\textra_kwargs",
+        "kind": 5,
+        "importPath": "userprofile.serializers",
+        "description": "userprofile.serializers",
+        "peekOfCode": "\t\textra_kwargs = {'user_profile':{'read_only':True}}",
+        "detail": "userprofile.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "userprofile.urls",
+        "description": "userprofile.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('profile',views.UserProfileViewSet)\nrouter.register('profile-feed',views.UserProfileFeedItemViewSet)\nurlpatterns = [\n\tpath('api/',include(router.urls)),\n\tpath('api/login', views.UserLoginApiView.as_view()),\n]",
+        "detail": "userprofile.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "userprofile.urls",
+        "description": "userprofile.urls",
+        "peekOfCode": "urlpatterns = [\n\tpath('api/',include(router.urls)),\n\tpath('api/login', views.UserLoginApiView.as_view()),\n]",
+        "detail": "userprofile.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileViewSet",
+        "kind": 6,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "class UserProfileViewSet(viewsets.ModelViewSet):\n\tserializer_class = serializers.ProfileSerializers\n\tqueryset = models.Account.objects.all()\n\tauthentication_classes = (TokenAuthentication,)\n\tpermission_classes = (permission.UpdateOwnProfile,)\n\tfilter_backends = (filters.SearchFilter,)\n\tsearch_fields = ('username','email',)\nclass UserLoginApiView(ObtainAuthToken):\n\trenderer_classes = api_settings.DEFAULT_RENDERER_CLASSES\nclass UserProfileFeedItemViewSet(viewsets.ModelViewSet):",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginApiView",
+        "kind": 6,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "class UserLoginApiView(ObtainAuthToken):\n\trenderer_classes = api_settings.DEFAULT_RENDERER_CLASSES\nclass UserProfileFeedItemViewSet(viewsets.ModelViewSet):\n\tauthentication_classes = (TokenAuthentication, )\n\tserializer_class = serializers.ProfileFeedItemSerializer\n\tqueryset = models.ProfileFeedItem.objects.all()\n\tpermission_classes = (permission.UpdateProfileFeed, IsAuthenticated)\n\tdef perform_create(self, serializers):\n\t\tserializers.save(user_profile = self.request.user)",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileFeedItemViewSet",
+        "kind": 6,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "class UserProfileFeedItemViewSet(viewsets.ModelViewSet):\n\tauthentication_classes = (TokenAuthentication, )\n\tserializer_class = serializers.ProfileFeedItemSerializer\n\tqueryset = models.ProfileFeedItem.objects.all()\n\tpermission_classes = (permission.UpdateProfileFeed, IsAuthenticated)\n\tdef perform_create(self, serializers):\n\t\tserializers.save(user_profile = self.request.user)",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tserializer_class",
+        "kind": 5,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "\tserializer_class = serializers.ProfileSerializers\n\tqueryset = models.Account.objects.all()\n\tauthentication_classes = (TokenAuthentication,)\n\tpermission_classes = (permission.UpdateOwnProfile,)\n\tfilter_backends = (filters.SearchFilter,)\n\tsearch_fields = ('username','email',)\nclass UserLoginApiView(ObtainAuthToken):\n\trenderer_classes = api_settings.DEFAULT_RENDERER_CLASSES\nclass UserProfileFeedItemViewSet(viewsets.ModelViewSet):\n\tauthentication_classes = (TokenAuthentication, )",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tqueryset",
+        "kind": 5,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "\tqueryset = models.Account.objects.all()\n\tauthentication_classes = (TokenAuthentication,)\n\tpermission_classes = (permission.UpdateOwnProfile,)\n\tfilter_backends = (filters.SearchFilter,)\n\tsearch_fields = ('username','email',)\nclass UserLoginApiView(ObtainAuthToken):\n\trenderer_classes = api_settings.DEFAULT_RENDERER_CLASSES\nclass UserProfileFeedItemViewSet(viewsets.ModelViewSet):\n\tauthentication_classes = (TokenAuthentication, )\n\tserializer_class = serializers.ProfileFeedItemSerializer",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tauthentication_classes",
+        "kind": 5,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "\tauthentication_classes = (TokenAuthentication,)\n\tpermission_classes = (permission.UpdateOwnProfile,)\n\tfilter_backends = (filters.SearchFilter,)\n\tsearch_fields = ('username','email',)\nclass UserLoginApiView(ObtainAuthToken):\n\trenderer_classes = api_settings.DEFAULT_RENDERER_CLASSES\nclass UserProfileFeedItemViewSet(viewsets.ModelViewSet):\n\tauthentication_classes = (TokenAuthentication, )\n\tserializer_class = serializers.ProfileFeedItemSerializer\n\tqueryset = models.ProfileFeedItem.objects.all()",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tpermission_classes",
+        "kind": 5,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "\tpermission_classes = (permission.UpdateOwnProfile,)\n\tfilter_backends = (filters.SearchFilter,)\n\tsearch_fields = ('username','email',)\nclass UserLoginApiView(ObtainAuthToken):\n\trenderer_classes = api_settings.DEFAULT_RENDERER_CLASSES\nclass UserProfileFeedItemViewSet(viewsets.ModelViewSet):\n\tauthentication_classes = (TokenAuthentication, )\n\tserializer_class = serializers.ProfileFeedItemSerializer\n\tqueryset = models.ProfileFeedItem.objects.all()\n\tpermission_classes = (permission.UpdateProfileFeed, IsAuthenticated)",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tfilter_backends",
+        "kind": 5,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "\tfilter_backends = (filters.SearchFilter,)\n\tsearch_fields = ('username','email',)\nclass UserLoginApiView(ObtainAuthToken):\n\trenderer_classes = api_settings.DEFAULT_RENDERER_CLASSES\nclass UserProfileFeedItemViewSet(viewsets.ModelViewSet):\n\tauthentication_classes = (TokenAuthentication, )\n\tserializer_class = serializers.ProfileFeedItemSerializer\n\tqueryset = models.ProfileFeedItem.objects.all()\n\tpermission_classes = (permission.UpdateProfileFeed, IsAuthenticated)\n\tdef perform_create(self, serializers):",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tsearch_fields",
+        "kind": 5,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "\tsearch_fields = ('username','email',)\nclass UserLoginApiView(ObtainAuthToken):\n\trenderer_classes = api_settings.DEFAULT_RENDERER_CLASSES\nclass UserProfileFeedItemViewSet(viewsets.ModelViewSet):\n\tauthentication_classes = (TokenAuthentication, )\n\tserializer_class = serializers.ProfileFeedItemSerializer\n\tqueryset = models.ProfileFeedItem.objects.all()\n\tpermission_classes = (permission.UpdateProfileFeed, IsAuthenticated)\n\tdef perform_create(self, serializers):\n\t\tserializers.save(user_profile = self.request.user)",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "\trenderer_classes",
+        "kind": 5,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "\trenderer_classes = api_settings.DEFAULT_RENDERER_CLASSES\nclass UserProfileFeedItemViewSet(viewsets.ModelViewSet):\n\tauthentication_classes = (TokenAuthentication, )\n\tserializer_class = serializers.ProfileFeedItemSerializer\n\tqueryset = models.ProfileFeedItem.objects.all()\n\tpermission_classes = (permission.UpdateProfileFeed, IsAuthenticated)\n\tdef perform_create(self, serializers):\n\t\tserializers.save(user_profile = self.request.user)",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tauthentication_classes",
+        "kind": 5,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "\tauthentication_classes = (TokenAuthentication, )\n\tserializer_class = serializers.ProfileFeedItemSerializer\n\tqueryset = models.ProfileFeedItem.objects.all()\n\tpermission_classes = (permission.UpdateProfileFeed, IsAuthenticated)\n\tdef perform_create(self, serializers):\n\t\tserializers.save(user_profile = self.request.user)",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tserializer_class",
+        "kind": 5,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "\tserializer_class = serializers.ProfileFeedItemSerializer\n\tqueryset = models.ProfileFeedItem.objects.all()\n\tpermission_classes = (permission.UpdateProfileFeed, IsAuthenticated)\n\tdef perform_create(self, serializers):\n\t\tserializers.save(user_profile = self.request.user)",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tqueryset",
+        "kind": 5,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "\tqueryset = models.ProfileFeedItem.objects.all()\n\tpermission_classes = (permission.UpdateProfileFeed, IsAuthenticated)\n\tdef perform_create(self, serializers):\n\t\tserializers.save(user_profile = self.request.user)",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tpermission_classes",
+        "kind": 5,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "\tpermission_classes = (permission.UpdateProfileFeed, IsAuthenticated)\n\tdef perform_create(self, serializers):\n\t\tserializers.save(user_profile = self.request.user)",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tserializers.save(user_profile",
+        "kind": 5,
+        "importPath": "userprofile.views",
+        "description": "userprofile.views",
+        "peekOfCode": "\t\tserializers.save(user_profile = self.request.user)",
+        "detail": "userprofile.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'profileApi.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

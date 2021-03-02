@@ -1,0 +1,540 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "Firstapi",
+        "description": "Firstapi",
+        "isExtraImport": true,
+        "detail": "Firstapi",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "Firstapi",
+        "description": "Firstapi",
+        "isExtraImport": true,
+        "detail": "Firstapi",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "FirstapiConfig",
+        "kind": 6,
+        "importPath": "Firstapi.apps",
+        "description": "Firstapi.apps",
+        "peekOfCode": "class FirstapiConfig(AppConfig):\n    name = 'Firstapi'",
+        "detail": "Firstapi.apps",
+        "documentation": {}
+    },
+    {
+        "label": "HelloSerializer",
+        "kind": 6,
+        "importPath": "Firstapi.serializers",
+        "description": "Firstapi.serializers",
+        "peekOfCode": "class HelloSerializer(serializers.Serializer):\n\tname = serializers.CharField(max_length = 10)",
+        "detail": "Firstapi.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\tname",
+        "kind": 5,
+        "importPath": "Firstapi.serializers",
+        "description": "Firstapi.serializers",
+        "peekOfCode": "\tname = serializers.CharField(max_length = 10)",
+        "detail": "Firstapi.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Firstapi.urls",
+        "description": "Firstapi.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('hello',views.HelloViewSet, basename =\"hello-viewset\")\nurlpatterns = [\n    path(\"hello/\",views.HelloApiView.as_view()),\n    path(\"viewset/\",include(router.urls)),\n]",
+        "detail": "Firstapi.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Firstapi.urls",
+        "description": "Firstapi.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"hello/\",views.HelloApiView.as_view()),\n    path(\"viewset/\",include(router.urls)),\n]",
+        "detail": "Firstapi.urls",
+        "documentation": {}
+    },
+    {
+        "label": "HelloApiView",
+        "kind": 6,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "class HelloApiView(APIView):\n\tserializer_class = serializers.HelloSerializer\n\tdef get(self, request, format = None):\n\t\tan_apiview = [\n\t\t\"This is a simple api view\",\n\t\t\"Here i am just trying to demonstrate how api call works\",\n\t\t\"So you can add here any functionality as you want\",\n\t\t\":) Peace\"\n\t\t]\n\t\treturn Response({\"message\":\"Hey there\",\"an_apiview\":an_apiview})",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "HelloViewSet",
+        "kind": 6,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "class HelloViewSet(viewsets.ViewSet):\n\tserializer_class = serializers.HelloSerializer\n\tdef list(self, request):\n\t\ta_viewset = [\n\t\t\t\"Uses actions (list,create, retrive,update, partial_update)\",\n\t\t]\n\t\treturn Response({\"message\": \"Hello\",\"a_viewset\": a_viewset})\n\tdef create(self, request):\n\t\tserializer = self.serializer_class(data = request.data)\n\t\tif serializer.is_valid():",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tserializer_class",
+        "kind": 5,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "\tserializer_class = serializers.HelloSerializer\n\tdef get(self, request, format = None):\n\t\tan_apiview = [\n\t\t\"This is a simple api view\",\n\t\t\"Here i am just trying to demonstrate how api call works\",\n\t\t\"So you can add here any functionality as you want\",\n\t\t\":) Peace\"\n\t\t]\n\t\treturn Response({\"message\":\"Hey there\",\"an_apiview\":an_apiview})\n\tdef post(self, request):",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tan_apiview",
+        "kind": 5,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "\t\tan_apiview = [\n\t\t\"This is a simple api view\",\n\t\t\"Here i am just trying to demonstrate how api call works\",\n\t\t\"So you can add here any functionality as you want\",\n\t\t\":) Peace\"\n\t\t]\n\t\treturn Response({\"message\":\"Hey there\",\"an_apiview\":an_apiview})\n\tdef post(self, request):\n\t\tserializer = self.serializer_class(data = request.data)\n\t\tif serializer.is_valid():",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tserializer",
+        "kind": 5,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "\t\tserializer = self.serializer_class(data = request.data)\n\t\tif serializer.is_valid():\n\t\t\tname = serializer.validated_data.get(\"name\")\n\t\t\tmessage = f\"Hello {name}\"\n\t\t\treturn Response({\"message\":message})\n\t\telse:\n\t\t\treturn Response(\n\t\t\t\tserializer.errors,\n\t\t\t\tstatus = status.HTTP_400_BAD_REQUEST\n\t\t\t\t)",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tname",
+        "kind": 5,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "\t\t\tname = serializer.validated_data.get(\"name\")\n\t\t\tmessage = f\"Hello {name}\"\n\t\t\treturn Response({\"message\":message})\n\t\telse:\n\t\t\treturn Response(\n\t\t\t\tserializer.errors,\n\t\t\t\tstatus = status.HTTP_400_BAD_REQUEST\n\t\t\t\t)\n\tdef put(self, request, pk = None):\n\t\treturn Response({\"message\":\"This is put request\"})",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmessage",
+        "kind": 5,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "\t\t\tmessage = f\"Hello {name}\"\n\t\t\treturn Response({\"message\":message})\n\t\telse:\n\t\t\treturn Response(\n\t\t\t\tserializer.errors,\n\t\t\t\tstatus = status.HTTP_400_BAD_REQUEST\n\t\t\t\t)\n\tdef put(self, request, pk = None):\n\t\treturn Response({\"message\":\"This is put request\"})\n\tdef patch(self, request, pk = None):",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tstatus",
+        "kind": 5,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "\t\t\t\tstatus = status.HTTP_400_BAD_REQUEST\n\t\t\t\t)\n\tdef put(self, request, pk = None):\n\t\treturn Response({\"message\":\"This is put request\"})\n\tdef patch(self, request, pk = None):\n\t\treturn Response({\"message\":\"This is patch request\"})\n\tdef delete(self, request, pk = None):\n\t\treturn Response({\"message\":\"This is delete request\"})\nclass HelloViewSet(viewsets.ViewSet):\n\tserializer_class = serializers.HelloSerializer",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tserializer_class",
+        "kind": 5,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "\tserializer_class = serializers.HelloSerializer\n\tdef list(self, request):\n\t\ta_viewset = [\n\t\t\t\"Uses actions (list,create, retrive,update, partial_update)\",\n\t\t]\n\t\treturn Response({\"message\": \"Hello\",\"a_viewset\": a_viewset})\n\tdef create(self, request):\n\t\tserializer = self.serializer_class(data = request.data)\n\t\tif serializer.is_valid():\n\t\t\tname = serializer.validated_data.get(\"name\")",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ta_viewset",
+        "kind": 5,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "\t\ta_viewset = [\n\t\t\t\"Uses actions (list,create, retrive,update, partial_update)\",\n\t\t]\n\t\treturn Response({\"message\": \"Hello\",\"a_viewset\": a_viewset})\n\tdef create(self, request):\n\t\tserializer = self.serializer_class(data = request.data)\n\t\tif serializer.is_valid():\n\t\t\tname = serializer.validated_data.get(\"name\")\n\t\t\tmessage = f\"Hello {name}\"\n\t\t\treturn Response({\"message\":message})",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tserializer",
+        "kind": 5,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "\t\tserializer = self.serializer_class(data = request.data)\n\t\tif serializer.is_valid():\n\t\t\tname = serializer.validated_data.get(\"name\")\n\t\t\tmessage = f\"Hello {name}\"\n\t\t\treturn Response({\"message\":message})\n\t\telse:\n\t\t\treturn Response(\n\t\t\t\tserializer.errors,\n\t\t\t\tstatus = status.HTTP_400_BAD_REQUEST\n\t\t\t\t)",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tname",
+        "kind": 5,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "\t\t\tname = serializer.validated_data.get(\"name\")\n\t\t\tmessage = f\"Hello {name}\"\n\t\t\treturn Response({\"message\":message})\n\t\telse:\n\t\t\treturn Response(\n\t\t\t\tserializer.errors,\n\t\t\t\tstatus = status.HTTP_400_BAD_REQUEST\n\t\t\t\t)\n\tdef retrieve(self, request, pk=None):\n\t\treturn Response({\"http-method\":\"GET\"})",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmessage",
+        "kind": 5,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "\t\t\tmessage = f\"Hello {name}\"\n\t\t\treturn Response({\"message\":message})\n\t\telse:\n\t\t\treturn Response(\n\t\t\t\tserializer.errors,\n\t\t\t\tstatus = status.HTTP_400_BAD_REQUEST\n\t\t\t\t)\n\tdef retrieve(self, request, pk=None):\n\t\treturn Response({\"http-method\":\"GET\"})\n\tdef update(self, request, pk=None):",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tstatus",
+        "kind": 5,
+        "importPath": "Firstapi.views",
+        "description": "Firstapi.views",
+        "peekOfCode": "\t\t\t\tstatus = status.HTTP_400_BAD_REQUEST\n\t\t\t\t)\n\tdef retrieve(self, request, pk=None):\n\t\treturn Response({\"http-method\":\"GET\"})\n\tdef update(self, request, pk=None):\n\t\treturn Response({\"http-method\":\"PUT\"})\n\tdef partial_update(self, request, pk=None):\n\t\treturn Response({\"http-method\":\"PATCH\"})\n\tdef destroy(self, request, pk=None):\n\t\treturn Response({\"http-method\":\"DELETE\"})",
+        "detail": "Firstapi.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "restApi.asgi",
+        "description": "restApi.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "restApi.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = ')q7ldn64!#&l@6j+8xt=bztkr_rk8z-4=x^k796&s_69bkzz*q'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "SECRET_KEY = ')q7ldn64!#&l@6j+8xt=bztkr_rk8z-4=x^k796&s_69bkzz*q'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'Firstapi.apps.FirstapiConfig',",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'Firstapi.apps.FirstapiConfig',\n    'rest_framework',\n]",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'restApi.urls'",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "ROOT_URLCONF = 'restApi.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'restApi.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "restApi.settings",
+        "description": "restApi.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "restApi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "restApi.urls",
+        "description": "restApi.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include(\"Firstapi.urls\"))\n]",
+        "detail": "restApi.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "restApi.wsgi",
+        "description": "restApi.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "restApi.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'restApi.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
