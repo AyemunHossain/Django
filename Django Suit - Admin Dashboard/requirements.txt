@@ -98,7 +98,7 @@ pylab==0.0.2
 pylint==2.4.4
 pyparsing==2.4.5
 pyPdf==1.13
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyrsistent==0.15.7
 pytest==6.0.1
 python-dateutil==2.8.1
