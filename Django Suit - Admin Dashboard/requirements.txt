@@ -93,7 +93,7 @@ psycopg2==2.8.5
 py==1.9.0
 pycodestyle==2.5.0
 pyfiglet==0.8.post1
-Pygments==2.5.2
+Pygments==2.7.4
 pylab==0.0.2
 pylint==2.4.4
 pyparsing==2.4.5
